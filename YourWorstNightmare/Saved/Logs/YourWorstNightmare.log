@@ -1866,3 +1866,5 @@ TwinStickPawn_C.ReceiveTick
 [2022.05.31-22.29.54:946][834]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/TwinStickPawn13549127489C495F013AC09C912DCD30.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset'
 [2022.05.31-22.29.54:971][834]AssetCheck: New page: Asset Save: TwinStickPawn
 [2022.05.31-22.29.54:971][834]LogContentValidation: Display: Validating Blueprint /Game/TwinStickBP/Blueprints/TwinStickPawn.TwinStickPawn
+[2022.05.31-22.31.06:996][183]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Intermediate/CachedAssetRegistry.bin', retrying in .5s...
+[2022.05.31-22.31.07:547][184]LogFileManager: Warning: DeleteFile recovered during retry!
