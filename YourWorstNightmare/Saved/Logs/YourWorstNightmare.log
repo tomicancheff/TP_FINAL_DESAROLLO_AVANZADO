@@ -2338,3 +2338,48 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.05-18.36.06:193][115]AssetCheck: New page: Asset Save: multiple assets
 [2022.06.05-18.36.06:193][115]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.TwinStickExampleMap_BuiltData
 [2022.06.05-18.36.06:193][115]LogContentValidation: Display: Validating World /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap
+[2022.06.05-18.59.49:873][913]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateCube_Rounded_9)
+[2022.06.05-19.00.23:640][962]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TwinStickBP/Blueprints/TwinStickGameMode.TwinStickGameMode
+[2022.06.05-19.00.30:354][569]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.06.05-19.00.30:354][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-19.00.37:755][851]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.06.05-19.00.37:810][851]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.06.05-19.01.59:672][573]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.06.05-19.01.59:693][573]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.06.05-19.01.59:720][573]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.06.05-19.02.07:620][888]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_PlayerController
+[2022.06.05-19.02.07:848][888]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.06.05-19.07.28:696][987]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_PlayerController.BP_PlayerController
+[2022.06.05-19.08.13:514][719]BlueprintLog: New page: Compile BP_PlayerController
+[2022.06.05-19.08.13:631][719]LogUObjectHash: Compacting FUObjectHashTables data took   9.92ms
+[2022.06.05-19.08.14:609][737]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/BP_PlayerController66F5231940D371E2D93F5FB2F2C8647D.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/BP/BP_PlayerController.uasset'
+[2022.06.05-19.08.15:051][737]AssetCheck: New page: Asset Save: BP_PlayerController
+[2022.06.05-19.08.15:051][737]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_PlayerController.BP_PlayerController
+[2022.06.05-19.08.56:264][ 66]LogSlate: Window 'BP_PlayerController' being destroyed
+[2022.06.05-19.08.59:951][222]LogEditorViewport: Clicking on Actor (LMB): TwinStickPawn_C (TwinStickPawn)
+[2022.06.05-19.09.03:139][308]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TwinStickBP/Blueprints/TwinStickPawn.TwinStickPawn
+[2022.06.05-19.09.33:196][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2022.06.05-19.09.34:353][ 83]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.05-19.09.34:479][ 83]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.06.05-19.09.34:479][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-19.09.34:562][ 83]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/BP/BP_PlayerController.BP_PlayerController
+[2022.06.05-19.09.36:802][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2022.06.05-19.09.36:871][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2022.06.05-19.09.36:913][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.06.05-19.09.37:195][ 83]SourceControl: rm 'YourWorstNightmare/Content/BP/BP_PlayerController.uasset'
+[2022.06.05-19.09.38:915][114]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2022.06.05-19.09.38:952][114]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/TwinStickExampleMap74B3D86F47195DCFFD10B0840CCCE4C7.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2022.06.05-19.09.39:369][114]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/TwinStickExampleMap_BuiltData124722BD451F91003B8D3AA0F29A33AB.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2022.06.05-19.09.39:386][114]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.05-19.09.39:386][114]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.TwinStickExampleMap_BuiltData
+[2022.06.05-19.09.39:386][114]LogContentValidation: Display: Validating World /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap
+[2022.06.05-19.10.05:099][744]LogEditorTransaction: Undo Delete current selection
+[2022.06.05-19.10.05:355][749]LogEditorTransaction: Undo Rename Node
+[2022.06.05-19.10.05:797][770]LogEditorTransaction: Undo Add Node
+[2022.06.05-19.10.06:197][803]LogEditorTransaction: Undo Delete current selection
+[2022.06.05-19.10.20:581][114]BlueprintLog: New page: Compile TwinStickPawn
+[2022.06.05-19.10.20:685][114]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2022.06.05-19.10.21:645][164]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/TwinStickPawnC4CBCFE44D31503D1F57AD9C20912678.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset'
+[2022.06.05-19.10.21:665][164]AssetCheck: New page: Asset Save: TwinStickPawn
+[2022.06.05-19.10.21:665][164]LogContentValidation: Display: Validating Blueprint /Game/TwinStickBP/Blueprints/TwinStickPawn.TwinStickPawn
