@@ -2383,3 +2383,305 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.05-19.10.21:645][164]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/TwinStickPawnC4CBCFE44D31503D1F57AD9C20912678.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset'
 [2022.06.05-19.10.21:665][164]AssetCheck: New page: Asset Save: TwinStickPawn
 [2022.06.05-19.10.21:665][164]LogContentValidation: Display: Validating Blueprint /Game/TwinStickBP/Blueprints/TwinStickPawn.TwinStickPawn
+[2022.06.05-19.10.42:776][437]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2022.06.05-19.10.45:342][437]LogSlate: Window 'Save Content' being destroyed
+[2022.06.05-19.10.45:573][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.06.05-19.10.45:606][437]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/TwinStickExampleMap91BF046D4849D976EC2181B9D28775F5.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2022.06.05-19.10.45:615][437]LogFileHelpers: Saving map 'TwinStickExampleMap' took 0.080
+[2022.06.05-19.10.45:678][437]LogLinker: Warning: [AssetLog] C:\Users\USUARIO\Documents\Unreal Projects\TP_FINAL_DESAROLLO_AVANZADO\YourWorstNightmare\Content\Levels\L_LevelThree.umap: Failed to load '/Game/Levels/L_LevelThree_BuiltData': Can't find file.
+[2022.06.05-19.10.45:679][437]LogLinker: Warning: [AssetLog] C:\Users\USUARIO\Documents\Unreal Projects\TP_FINAL_DESAROLLO_AVANZADO\YourWorstNightmare\Content\Levels\L_LevelThree.umap: Failed to load '/Game/Levels/L_LevelThree_BuiltData': Can't find file.
+[2022.06.05-19.10.45:693][437]LogLinker: Warning: [AssetLog] C:\Users\USUARIO\Documents\Unreal Projects\TP_FINAL_DESAROLLO_AVANZADO\YourWorstNightmare\Content\Levels\L_LevelThree.umap: Failed to load '/Game/Levels/L_LevelThree_BuiltData': Can't find file.
+[2022.06.05-19.10.45:696][437]LogLinker: Warning: [AssetLog] C:\Users\USUARIO\Documents\Unreal Projects\TP_FINAL_DESAROLLO_AVANZADO\YourWorstNightmare\Content\Levels\L_LevelThree.umap: Failed to load '/Game/Levels/L_LevelThree_BuiltData': Can't find file.
+[2022.06.05-19.10.45:699][437]LoadErrors: Failed to load /Game/Levels/L_LevelThree_BuiltData.L_LevelThree_BuiltData Referenced by PersistentLevel
+[2022.06.05-19.10.45:754][437]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/L_LevelThree.L_LevelThree
+[2022.06.05-19.10.45:756][437]Cmd: MAP LOAD FILE="../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/Levels/L_LevelThree.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.05-19.10.45:756][437]LightingResults: New page: Lighting Build
+[2022.06.05-19.10.45:760][437]LoadErrors: New page: Loading map: L_LevelThree.umap
+[2022.06.05-19.10.45:770][437]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.05-19.10.45:771][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-19.10.45:771][437]MapCheck: New page: Map Check
+[2022.06.05-19.10.45:771][437]LightingResults: New page: Lighting Build
+[2022.06.05-19.10.45:809][437]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.05-19.10.45:852][437]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2022.06.05-19.10.45:866][437]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_LevelThree'.
+[2022.06.05-19.10.45:951][437]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.05-19.10.45:951][437]LogAIModule: Creating AISystem for world L_LevelThree
+[2022.06.05-19.10.46:001][437]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.06.05-19.10.46:008][437]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.05-19.10.46:009][437]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.271ms to complete.
+[2022.06.05-19.10.46:009][437]LogFileHelpers: Loading map 'L_LevelThree' took 0.254
+[2022.06.05-19.10.46:038][437]AssetCheck: New page: Asset Save: TwinStickExampleMap
+[2022.06.05-19.10.46:038][437]LogContentValidation: Display: Validating World /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap
+[2022.06.05-19.10.48:945][548]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.05-19.10.48:957][548]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.05-19.10.48:957][548]PIE: New page: PIE session: L_LevelThree (Jun 5, 2022, 1:10:48 PM)
+[2022.06.05-19.10.48:957][548]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelThree
+[2022.06.05-19.10.48:967][548]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009297s)
+[2022.06.05-19.10.48:969][548]LogAIModule: Creating AISystem for world L_LevelThree
+[2022.06.05-19.10.48:970][548]LogPlayLevel: PIE: World Init took: (0.003012s)
+[2022.06.05-19.10.48:970][548]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelThree.L_LevelThree to /Game/Levels/UEDPIE_0_L_LevelThree.L_LevelThree (0.012648s)
+[2022.06.05-19.10.49:010][548]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.06.05-19.10.49:012][548]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2022.06.05-19.10.49:012][548]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.05-19.10.49:012][548]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.05-19.10.49:012][548]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.05-19.10.49:012][548]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.05-19.10.49:012][548]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.05-19.10.49:012][548]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.05-19.10.49:012][548]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.05-19.10.49:012][548]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.05-19.10.49:013][548]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.05-19.10.49:013][548]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.05-19.10.49:013][548]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.05-19.10.49:013][548]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.05-19.10.49:019][548]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.05-19.10.49:019][548]LogAudioMixer: Display: 1: FrontRight
+[2022.06.05-19.10.49:031][548]LogAudioMixer: Display: Using Audio Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2022.06.05-19.10.49:031][548]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.05-19.10.49:031][548]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.05-19.10.49:031][548]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.05-19.10.49:032][548]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.05-19.10.49:033][548]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.05-19.10.49:033][548]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.05-19.10.49:035][548]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.05-19.10.49:035][548]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.05-19.10.49:035][548]LogInit: FAudioDevice initialized.
+[2022.06.05-19.10.49:035][548]LogAudio: Display: Audio Device (ID: 20) registered with world 'L_LevelThree'.
+[2022.06.05-19.10.49:051][548]LogLinker: Warning: Failed to load '/Game/TopDownBP/Blueprints/TopDownGameMode': Can't find file.
+[2022.06.05-19.10.49:051][548]LogLinker: Warning: Failed to load '/Game/TopDownBP/Blueprints/TopDownGameMode': Can't find file.
+[2022.06.05-19.10.49:052][548]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2022.06.05-19.10.49:052][548]LogLoad: Game class is 'GameModeBase'
+[2022.06.05-19.10.49:053][548]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelThree.L_LevelThree up for play (max tick rate 0) at 2022.06.05-16.10.49
+[2022.06.05-19.10.49:053][548]LogWorld: Bringing up level for play took: 0.000760
+[2022.06.05-19.10.49:053][548]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2022.06.05-19.10.49:062][548]PIE: Server logged in
+[2022.06.05-19.10.49:064][548]PIE: Play in editor total start time 0.11 seconds.
+[2022.06.05-19.10.50:748][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-19.10.50:748][627]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelThree
+[2022.06.05-19.10.50:748][627]LogWorld: UWorld::CleanupWorld for L_LevelThree, bSessionEnded=true, bCleanupResources=true
+[2022.06.05-19.10.50:748][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-19.10.50:771][627]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.05-19.10.50:775][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-19.10.50:807][627]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.05-19.10.50:807][627]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-19.10.50:809][627]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-19.10.50:812][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-19.10.50:816][627]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.06.05-19.10.50:838][628]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2022.06.05-19.10.51:586][655]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.06.05-19.10.51:617][655]LogLinker: Warning: [AssetLog] C:\Users\USUARIO\Documents\Unreal Projects\TP_FINAL_DESAROLLO_AVANZADO\YourWorstNightmare\Content\Levels\L_LevelTwo.umap: Failed to load '/Game/Levels/L_LevelTwo_BuiltData': Can't find file.
+[2022.06.05-19.10.51:618][655]LogLinker: Warning: [AssetLog] C:\Users\USUARIO\Documents\Unreal Projects\TP_FINAL_DESAROLLO_AVANZADO\YourWorstNightmare\Content\Levels\L_LevelTwo.umap: Failed to load '/Game/Levels/L_LevelTwo_BuiltData': Can't find file.
+[2022.06.05-19.10.51:618][655]LogLinker: Warning: [AssetLog] C:\Users\USUARIO\Documents\Unreal Projects\TP_FINAL_DESAROLLO_AVANZADO\YourWorstNightmare\Content\Levels\L_LevelTwo.umap: Failed to load '/Game/Levels/L_LevelTwo_BuiltData': Can't find file.
+[2022.06.05-19.10.51:621][655]LogLinker: Warning: [AssetLog] C:\Users\USUARIO\Documents\Unreal Projects\TP_FINAL_DESAROLLO_AVANZADO\YourWorstNightmare\Content\Levels\L_LevelTwo.umap: Failed to load '/Game/Levels/L_LevelTwo_BuiltData': Can't find file.
+[2022.06.05-19.10.51:621][655]LoadErrors: Failed to load /Game/Levels/L_LevelTwo_BuiltData.L_LevelTwo_BuiltData Referenced by PersistentLevel
+[2022.06.05-19.10.51:631][655]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/L_LevelTwo.L_LevelTwo
+[2022.06.05-19.10.51:631][655]Cmd: MAP LOAD FILE="../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/Levels/L_LevelTwo.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.05-19.10.51:631][655]LightingResults: New page: Lighting Build
+[2022.06.05-19.10.51:631][655]LoadErrors: New page: Loading map: L_LevelTwo.umap
+[2022.06.05-19.10.51:633][655]LogWorld: UWorld::CleanupWorld for L_LevelThree, bSessionEnded=true, bCleanupResources=true
+[2022.06.05-19.10.51:633][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-19.10.51:633][655]MapCheck: New page: Map Check
+[2022.06.05-19.10.51:633][655]LightingResults: New page: Lighting Build
+[2022.06.05-19.10.51:668][655]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.05-19.10.51:673][655]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2022.06.05-19.10.51:713][655]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2022.06.05-19.10.51:750][655]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.06.05-19.10.51:750][655]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_LevelTwo'.
+[2022.06.05-19.10.51:850][655]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.05-19.10.51:850][655]LogAIModule: Creating AISystem for world L_LevelTwo
+[2022.06.05-19.10.51:888][655]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.06.05-19.10.51:895][655]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.05-19.10.51:895][655]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.202ms to complete.
+[2022.06.05-19.10.51:895][655]LogFileHelpers: Loading map 'L_LevelTwo' took 0.264
+[2022.06.05-19.10.53:091][702]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.05-19.10.53:105][702]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.05-19.10.53:105][702]PIE: New page: PIE session: L_LevelTwo (Jun 5, 2022, 1:10:53 PM)
+[2022.06.05-19.10.53:106][702]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelTwo
+[2022.06.05-19.10.53:114][702]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008651s)
+[2022.06.05-19.10.53:117][702]LogAIModule: Creating AISystem for world L_LevelTwo
+[2022.06.05-19.10.53:118][702]LogPlayLevel: PIE: World Init took: (0.003136s)
+[2022.06.05-19.10.53:118][702]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelTwo.L_LevelTwo to /Game/Levels/UEDPIE_0_L_LevelTwo.L_LevelTwo (0.012344s)
+[2022.06.05-19.10.53:158][702]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.06.05-19.10.53:158][702]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2022.06.05-19.10.53:158][702]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.05-19.10.53:158][702]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.05-19.10.53:158][702]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.05-19.10.53:158][702]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.05-19.10.53:158][702]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.05-19.10.53:158][702]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.05-19.10.53:159][702]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.05-19.10.53:159][702]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.05-19.10.53:159][702]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.05-19.10.53:159][702]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.05-19.10.53:159][702]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.05-19.10.53:159][702]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.05-19.10.53:165][702]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.05-19.10.53:165][702]LogAudioMixer: Display: 1: FrontRight
+[2022.06.05-19.10.53:174][702]LogAudioMixer: Display: Using Audio Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2022.06.05-19.10.53:174][702]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.05-19.10.53:174][702]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.05-19.10.53:174][702]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.05-19.10.53:175][702]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.05-19.10.53:175][702]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.05-19.10.53:175][702]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.05-19.10.53:177][702]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.05-19.10.53:177][702]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.05-19.10.53:178][702]LogInit: FAudioDevice initialized.
+[2022.06.05-19.10.53:178][702]LogAudio: Display: Audio Device (ID: 21) registered with world 'L_LevelTwo'.
+[2022.06.05-19.10.53:192][702]LogLoad: Game class is 'GameModeBase'
+[2022.06.05-19.10.53:193][702]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelTwo.L_LevelTwo up for play (max tick rate 0) at 2022.06.05-16.10.53
+[2022.06.05-19.10.53:193][702]LogWorld: Bringing up level for play took: 0.000644
+[2022.06.05-19.10.53:194][702]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2022.06.05-19.10.53:199][702]PIE: Server logged in
+[2022.06.05-19.10.53:200][702]PIE: Play in editor total start time 0.099 seconds.
+[2022.06.05-19.10.54:677][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-19.10.54:677][772]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelTwo
+[2022.06.05-19.10.54:678][772]LogWorld: UWorld::CleanupWorld for L_LevelTwo, bSessionEnded=true, bCleanupResources=true
+[2022.06.05-19.10.54:678][772]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-19.10.54:695][772]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.05-19.10.54:700][772]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-19.10.54:729][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-19.10.54:730][772]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-19.10.54:731][772]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-19.10.54:737][772]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2022.06.05-19.10.54:759][773]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2022.06.05-19.10.55:564][803]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2022.06.05-19.10.55:654][803]LogLinker: Warning: [AssetLog] C:\Users\USUARIO\Documents\Unreal Projects\TP_FINAL_DESAROLLO_AVANZADO\YourWorstNightmare\Content\Levels\L_LevelOne.umap: Failed to load '/Game/Levels/L_LevelOne_BuiltData': Can't find file.
+[2022.06.05-19.10.55:655][803]LogLinker: Warning: [AssetLog] C:\Users\USUARIO\Documents\Unreal Projects\TP_FINAL_DESAROLLO_AVANZADO\YourWorstNightmare\Content\Levels\L_LevelOne.umap: Failed to load '/Game/Levels/L_LevelOne_BuiltData': Can't find file.
+[2022.06.05-19.10.55:655][803]LogLinker: Warning: [AssetLog] C:\Users\USUARIO\Documents\Unreal Projects\TP_FINAL_DESAROLLO_AVANZADO\YourWorstNightmare\Content\Levels\L_LevelOne.umap: Failed to load '/Game/Levels/L_LevelOne_BuiltData': Can't find file.
+[2022.06.05-19.10.55:658][803]LogLinker: Warning: Failed to load '/Game/Levels/L_LevelOne_BuiltData': Can't find file.
+[2022.06.05-19.10.55:658][803]LogLinker: Warning: Failed to load '/Game/Levels/L_LevelOne_BuiltData': Can't find file.
+[2022.06.05-19.10.55:662][803]LogLinker: Warning: [AssetLog] C:\Users\USUARIO\Documents\Unreal Projects\TP_FINAL_DESAROLLO_AVANZADO\YourWorstNightmare\Content\Levels\L_LevelOne.umap: Failed to load '/Game/Levels/L_LevelOne_BuiltData': Can't find file.
+[2022.06.05-19.10.55:662][803]LoadErrors: Failed to load /Game/Levels/L_LevelOne_BuiltData.L_LevelOne_BuiltData Referenced by PersistentLevel
+[2022.06.05-19.10.55:733][803]LogMaterial: Display: Missing cached shadermap for M_ThirdPersonEnemyMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 6E92113B46EDE5D9DBDDA589EEF0C4445D2B7BC6), compiling. 
+[2022.06.05-19.10.55:915][803]LogShaderCompilers: Display: Submitted 64 shader compile jobs with 'Low' priority
+[2022.06.05-19.10.55:968][803]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 64
+[2022.06.05-19.10.55:968][803]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 54
+[2022.06.05-19.10.55:968][803]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 44
+[2022.06.05-19.10.55:968][803]LogShaderCompilers: Display: Started 30 'Local' shader compile jobs with 'Low' priority
+[2022.06.05-19.10.55:968][803]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/L_LevelOne.L_LevelOne
+[2022.06.05-19.10.55:968][803]Cmd: MAP LOAD FILE="../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/Levels/L_LevelOne.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.05-19.10.55:968][803]LightingResults: New page: Lighting Build
+[2022.06.05-19.10.55:968][803]LoadErrors: New page: Loading map: L_LevelOne.umap
+[2022.06.05-19.10.55:970][803]LogWorld: UWorld::CleanupWorld for L_LevelTwo, bSessionEnded=true, bCleanupResources=true
+[2022.06.05-19.10.55:970][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-19.10.55:970][803]MapCheck: New page: Map Check
+[2022.06.05-19.10.55:970][803]LightingResults: New page: Lighting Build
+[2022.06.05-19.10.56:017][803]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.05-19.10.56:022][803]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2022.06.05-19.10.56:024][803]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_LevelOne'.
+[2022.06.05-19.10.56:211][803]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.05-19.10.56:211][803]LogAIModule: Creating AISystem for world L_LevelOne
+[2022.06.05-19.10.56:264][803]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2022.06.05-19.10.56:273][803]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.05-19.10.56:274][803]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.268ms to complete.
+[2022.06.05-19.10.56:274][803]LogFileHelpers: Loading map 'L_LevelOne' took 0.305
+[2022.06.05-19.10.58:645][888]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.05-19.10.58:662][888]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.05-19.10.58:662][888]PIE: New page: PIE session: L_LevelOne (Jun 5, 2022, 1:10:58 PM)
+[2022.06.05-19.10.58:663][888]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2022.06.05-19.10.58:679][888]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015824s)
+[2022.06.05-19.10.58:681][888]LogAIModule: Creating AISystem for world L_LevelOne
+[2022.06.05-19.10.58:682][888]LogPlayLevel: PIE: World Init took: (0.002644s)
+[2022.06.05-19.10.58:682][888]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.018867s)
+[2022.06.05-19.10.58:730][888]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2022.06.05-19.10.58:731][888]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2022.06.05-19.10.58:731][888]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.05-19.10.58:732][888]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.05-19.10.58:732][888]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.05-19.10.58:732][888]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.05-19.10.58:732][888]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.05-19.10.58:732][888]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.05-19.10.58:732][888]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.05-19.10.58:732][888]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.05-19.10.58:733][888]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.05-19.10.58:733][888]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.05-19.10.58:733][888]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.05-19.10.58:733][888]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.05-19.10.58:741][888]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.05-19.10.58:741][888]LogAudioMixer: Display: 1: FrontRight
+[2022.06.05-19.10.58:756][888]LogAudioMixer: Display: Using Audio Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2022.06.05-19.10.58:756][888]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.05-19.10.58:756][888]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.05-19.10.58:756][888]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.05-19.10.58:758][888]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.05-19.10.58:758][888]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.05-19.10.58:758][888]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.05-19.10.58:760][888]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.05-19.10.58:761][888]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.05-19.10.58:761][888]LogInit: FAudioDevice initialized.
+[2022.06.05-19.10.58:761][888]LogAudio: Display: Audio Device (ID: 22) registered with world 'L_LevelOne'.
+[2022.06.05-19.10.58:777][888]LogLoad: Game class is 'TwinStickGameMode_C'
+[2022.06.05-19.10.58:783][888]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2022.06.05-16.10.58
+[2022.06.05-19.10.58:795][888]LogWorld: Bringing up level for play took: 0.017261
+[2022.06.05-19.10.58:796][888]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2022.06.05-19.10.58:807][888]PIE: Server logged in
+[2022.06.05-19.10.58:808][888]PIE: Play in editor total start time 0.152 seconds.
+[2022.06.05-19.11.23:630][767]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.06.05-19.11.23:630][767]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.05-19.11.23:630][767]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.05-19.11.23:630][767]LogShaderCompilers: Display: Total job queries 64, among them cache hits 0 (0.00%)
+[2022.06.05-19.11.23:630][767]LogShaderCompilers: Display: Tracking 10 distinct input hashes that result in 8 distinct outputs (80.00%)
+[2022.06.05-19.11.23:631][767]LogShaderCompilers: Display: RAM used: 0.05 MB (0.00 GB) of 307.20 MB (0.30 GB) budget. Usage: 0.02%
+[2022.06.05-19.11.23:631][767]LogShaderCompilers: Display: ================================================
+[2022.06.05-19.11.23:885][777]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.06.05-19.11.23:885][777]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.05-19.11.23:929][778]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 32
+[2022.06.05-19.11.23:929][778]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.06.05-19.11.25:317][828]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2022.06.05-19.11.25:317][828]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2022.06.05-19.11.28:462][951]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2022.06.05-19.11.28:462][951]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2022.06.05-19.11.31:660][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-19.11.31:660][ 66]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2022.06.05-19.11.31:661][ 66]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.06.05-19.11.31:664][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-19.11.31:698][ 66]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.05-19.11.31:707][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-19.11.31:758][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-19.11.31:758][ 66]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-19.11.31:760][ 66]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-19.11.31:773][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2022.06.05-19.11.31:803][ 67]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2022.06.05-19.11.37:226][266]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2022.06.05-19.11.37:226][266]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.06.05-19.11.40:824][386]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2022.06.05-19.11.40:889][386]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.06.05-19.11.40:889][386]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.06.05-19.11.40:889][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-19.11.41:029][386]LogSlate: Window 'YourWorstNightmare - Unreal Editor' being destroyed
+[2022.06.05-19.11.41:598][387]Cmd: QUIT_EDITOR
+[2022.06.05-19.11.41:599][387]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.06.05-19.11.41:658][387]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.06.05-19.11.42:416][387]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.06.05-19.11.42:417][387]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.06.05-19.11.42:417][387]LogAudio: Display: Audio Device unregistered from world 'L_LevelOne'.
+[2022.06.05-19.11.42:417][387]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-19.11.42:437][387]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-19.11.42:494][387]LogAudio: Display: Audio Device Manager Shutdown
+[2022.06.05-19.11.42:496][387]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.05-19.11.42:519][387]LogExit: Preparing to exit.
+[2022.06.05-19.11.45:081][387]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2022.06.05-19.11.45:081][387]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.06.05-19.11.45:081][387]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2022.06.05-19.11.45:081][387]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.06.05-19.11.45:081][387]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2022.06.05-19.11.45:081][387]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.06.05-19.11.45:116][387]LogUObjectHash: Compacting FUObjectHashTables data took   6.26ms
+[2022.06.05-19.11.45:825][387]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.06.05-19.11.45:827][387]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.06.05-19.11.45:831][387]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.06.05-19.11.45:833][387]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.06.05-19.11.45:836][387]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.06.05-19.11.45:841][387]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.06.05-19.11.46:020][387]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.06.05-19.11.46:180][387]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.06.05-19.11.46:183][387]LogExit: Editor shut down
+[2022.06.05-19.11.46:206][387]LogExit: Transaction tracking system shut down
+[2022.06.05-19.11.48:483][387]LogExit: Object subsystem successfully closed.
+[2022.06.05-19.11.48:513][387]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.05-19.11.48:513][387]LogShaderCompilers: Display: Total job queries 65, among them cache hits 1 (1.54%)
+[2022.06.05-19.11.48:513][387]LogShaderCompilers: Display: Tracking 64 distinct input hashes that result in 41 distinct outputs (64.06%)
+[2022.06.05-19.11.48:513][387]LogShaderCompilers: Display: RAM used: 0.20 MB (0.00 GB) of 307.20 MB (0.30 GB) budget. Usage: 0.07%
+[2022.06.05-19.11.48:513][387]LogShaderCompilers: Display: ================================================
+[2022.06.05-19.11.48:570][387]LogShaderCompilers: Display: Shaders left to compile 0
