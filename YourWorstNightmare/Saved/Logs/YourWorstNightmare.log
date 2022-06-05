@@ -964,3 +964,565 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.05-17.28.32:499][243]LogContentValidation: Display: Validating Blueprint /Game/TwinStickBP/Blueprints/TwinStickPawn.TwinStickPawn
 [2022.06.05-17.29.41:131][663]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Intermediate/CachedAssetRegistry.bin', retrying in .5s...
 [2022.06.05-17.29.41:450][664]LogFileManager: Warning: DeleteFile recovered during retry!
+[2022.06.05-17.30.50:969][ 24]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BPI_Damageable.BPI_Damageable
+[2022.06.05-17.32.07:227][ 34]BlueprintLog: New page: Compile BPI_Damageable
+[2022.06.05-17.32.07:321][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2022.06.05-17.32.08:202][ 47]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/BPI_DamageableA06369A44EFA8E3A2B5C4DA47A994D0F.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/BP/BPI_Damageable.uasset'
+[2022.06.05-17.32.08:554][ 47]AssetCheck: New page: Asset Save: BPI_Damageable
+[2022.06.05-17.32.08:555][ 47]LogContentValidation: Display: Validating Blueprint /Game/BP/BPI_Damageable.BPI_Damageable
+[2022.06.05-17.32.09:255][ 63]LogSlate: Window 'BPI_Damageable' being destroyed
+[2022.06.05-17.32.09:308][ 63]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.06.05-17.32.09:309][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-17.32.38:212][623]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.06.05-17.32.38:241][623]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.06.05-17.32.44:052][153]BlueprintLog: New page: Compile TwinStickPawn
+[2022.06.05-17.32.44:155][153]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2022.06.05-17.32.44:940][193]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/TwinStickPawnF92CBA534D43B7258F51ED975D8779A6.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset'
+[2022.06.05-17.32.44:960][193]AssetCheck: New page: Asset Save: TwinStickPawn
+[2022.06.05-17.32.44:960][193]LogContentValidation: Display: Validating Blueprint /Game/TwinStickBP/Blueprints/TwinStickPawn.TwinStickPawn
+[2022.06.05-17.33.56:818][911]BlueprintLog: New page: Compile TwinStickPawn
+[2022.06.05-17.33.56:905][911]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2022.06.05-17.33.57:714][950]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/TwinStickPawn0AF7D7704C845613133D1E9B2D7E565D.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset'
+[2022.06.05-17.33.57:733][950]AssetCheck: New page: Asset Save: TwinStickPawn
+[2022.06.05-17.33.57:733][950]LogContentValidation: Display: Validating Blueprint /Game/TwinStickBP/Blueprints/TwinStickPawn.TwinStickPawn
+[2022.06.05-17.34.21:378][580]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/TwinStickPawnA3B9E41B4E3CA5694DF5648C7139BCCB.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset'
+[2022.06.05-17.34.21:398][580]AssetCheck: New page: Asset Save: TwinStickPawn
+[2022.06.05-17.34.21:398][580]LogContentValidation: Display: Validating Blueprint /Game/TwinStickBP/Blueprints/TwinStickPawn.TwinStickPawn
+[2022.06.05-17.34.22:154][649]BlueprintLog: New page: Compile TwinStickPawn
+[2022.06.05-17.34.22:244][649]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2022.06.05-17.34.23:037][693]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/TwinStickPawn2FF88501470EA0C6EBAAE5AC70D76180.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset'
+[2022.06.05-17.34.23:059][693]AssetCheck: New page: Asset Save: TwinStickPawn
+[2022.06.05-17.34.23:059][693]LogContentValidation: Display: Validating Blueprint /Game/TwinStickBP/Blueprints/TwinStickPawn.TwinStickPawn
+[2022.06.05-17.34.35:113][908]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_Enemy.BP_Enemy
+[2022.06.05-17.34.35:791][908]LogRenderer: Reallocating scene render targets to support 868x408 Format 10 NumSamples 1 (Frame:1).
+[2022.06.05-17.34.36:958][929]BlueprintLog: New page: Compile BP_Enemy
+[2022.06.05-17.34.37:041][929]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2022.06.05-17.34.37:891][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Enemy" FILE="../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/BP/BP_Enemy.uasset" SILENT=true
+[2022.06.05-17.34.37:898][940]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/BP_EnemyC972B0A248D7FE732CD2DA8ACB36DBE5.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/BP/BP_Enemy.uasset'
+[2022.06.05-17.34.38:270][940]AssetCheck: New page: Asset Save: BP_Enemy
+[2022.06.05-17.34.38:270][940]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_Enemy.BP_Enemy
+[2022.06.05-17.35.26:350][626]BlueprintLog: New page: Compile BP_Enemy
+[2022.06.05-17.35.26:429][626]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2022.06.05-17.35.27:525][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Enemy" FILE="../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/BP/BP_Enemy.uasset" SILENT=true
+[2022.06.05-17.35.27:536][640]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/BP_EnemyF4AC6EDA41F8A5AA593ED79C860705C9.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/BP/BP_Enemy.uasset'
+[2022.06.05-17.35.27:556][640]AssetCheck: New page: Asset Save: BP_Enemy
+[2022.06.05-17.35.27:556][640]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_Enemy.BP_Enemy
+[2022.06.05-17.35.59:172][934]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.06.05-17.35.59:206][934]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/TwinStickExampleMap_Auto147C6F7074EB499E062423D8D3C30A5F8.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/Autosaves/Game/TwinStickBP/Maps/TwinStickExampleMap_Auto1.umap'
+[2022.06.05-17.35.59:209][934]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TwinStickBP/Maps/TwinStickExampleMap' took 0.081
+[2022.06.05-17.35.59:209][934]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.081
+[2022.06.05-17.35.59:210][934]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/BP_Enemy] ([2] browsable assets)...
+[2022.06.05-17.35.59:256][934]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/BP_Enemy.BP_Enemy]
+[2022.06.05-17.35.59:256][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_Enemy]
+[2022.06.05-17.35.59:267][934]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/BP_Enemy_Auto19317A4BA4FF98F0EC17F61A2D41014B4.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/Autosaves/Game/BP/BP_Enemy_Auto1.uasset'
+[2022.06.05-17.35.59:268][934]LogFileHelpers: Auto-saving content packages took 0.058
+[2022.06.05-17.36.31:214][532]BlueprintLog: New page: Compile BP_Enemy
+[2022.06.05-17.36.31:297][532]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.06.05-17.36.32:335][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Enemy" FILE="../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/BP/BP_Enemy.uasset" SILENT=true
+[2022.06.05-17.36.32:347][545]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/BP_Enemy92D69CA44D567ADE8B703E8C356EB506.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/BP/BP_Enemy.uasset'
+[2022.06.05-17.36.32:368][545]AssetCheck: New page: Asset Save: BP_Enemy
+[2022.06.05-17.36.32:368][545]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_Enemy.BP_Enemy
+[2022.06.05-17.40.48:734][805]BlueprintLog: New page: Compile BP_Enemy
+[2022.06.05-17.40.48:825][805]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2022.06.05-17.40.49:723][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Enemy" FILE="../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/BP/BP_Enemy.uasset" SILENT=true
+[2022.06.05-17.40.49:735][819]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/BP_Enemy05972EF7423D474C55BD0DB990DAC727.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/BP/BP_Enemy.uasset'
+[2022.06.05-17.40.49:761][819]AssetCheck: New page: Asset Save: BP_Enemy
+[2022.06.05-17.40.49:761][819]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_Enemy.BP_Enemy
+[2022.06.05-17.40.51:662][920]LogSlate: Window 'BP_Enemy' being destroyed
+[2022.06.05-17.40.55:527][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.06.05-17.40.55:557][ 55]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/TwinStickExampleMap5194CB7F4CAAA432847226A5C5B01A7E.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2022.06.05-17.40.56:023][ 55]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/TwinStickExampleMap_BuiltDataE162A8DA4C63A62388BAB895EB276B2D.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2022.06.05-17.40.56:038][ 55]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.05-17.40.56:038][ 55]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.TwinStickExampleMap_BuiltData
+[2022.06.05-17.40.56:038][ 55]LogContentValidation: Display: Validating World /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap
+[2022.06.05-17.41.22:861][327]BlueprintLog: New page: Compile TwinStickPawn
+[2022.06.05-17.41.22:937][327]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.06.05-17.41.23:695][372]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/TwinStickPawn30C9592E4E555AE53E5A68A02A22C016.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset'
+[2022.06.05-17.41.23:715][372]AssetCheck: New page: Asset Save: TwinStickPawn
+[2022.06.05-17.41.23:715][372]LogContentValidation: Display: Validating Blueprint /Game/TwinStickBP/Blueprints/TwinStickPawn.TwinStickPawn
+[2022.06.05-17.41.25:025][436]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.05-17.41.25:045][436]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.05-17.41.25:045][436]PIE: New page: PIE session: TwinStickExampleMap (Jun 5, 2022, 11:41:25 AM)
+[2022.06.05-17.41.25:045][436]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2022.06.05-17.41.25:055][436]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009566s)
+[2022.06.05-17.41.25:057][436]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2022.06.05-17.41.25:057][436]LogPlayLevel: PIE: World Init took: (0.002128s)
+[2022.06.05-17.41.25:057][436]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.012100s)
+[2022.06.05-17.41.25:099][436]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2022.06.05-17.41.25:100][436]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.06.05-17.41.25:101][436]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.05-17.41.25:101][436]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.05-17.41.25:101][436]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.05-17.41.25:101][436]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.05-17.41.25:101][436]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.05-17.41.25:101][436]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.05-17.41.25:101][436]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.05-17.41.25:101][436]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.05-17.41.25:101][436]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.05-17.41.25:101][436]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.05-17.41.25:101][436]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.05-17.41.25:101][436]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.05-17.41.25:108][436]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.05-17.41.25:108][436]LogAudioMixer: Display: 1: FrontRight
+[2022.06.05-17.41.25:118][436]LogAudioMixer: Display: Using Audio Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2022.06.05-17.41.25:118][436]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.05-17.41.25:119][436]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.05-17.41.25:119][436]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.05-17.41.25:120][436]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.05-17.41.25:120][436]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.05-17.41.25:120][436]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.05-17.41.25:122][436]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.05-17.41.25:122][436]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.05-17.41.25:122][436]LogInit: FAudioDevice initialized.
+[2022.06.05-17.41.25:122][436]LogAudio: Display: Audio Device (ID: 3) registered with world 'TwinStickExampleMap'.
+[2022.06.05-17.41.25:132][436]LogLoad: Game class is 'TwinStickGameMode_C'
+[2022.06.05-17.41.25:135][436]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2022.06.05-14.41.25
+[2022.06.05-17.41.25:135][436]LogWorld: Bringing up level for play took: 0.002046
+[2022.06.05-17.41.25:135][436]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.06.05-17.41.25:139][436]PIE: Server logged in
+[2022.06.05-17.41.25:140][436]PIE: Play in editor total start time 0.104 seconds.
+[2022.06.05-17.41.27:039][525]LogBlueprintUserMessages: [TwinStickPawn_317] 80.0
+[2022.06.05-17.41.28:373][591]LogBlueprintUserMessages: [TwinStickPawn_317] 60.0
+[2022.06.05-17.41.29:427][643]LogBlueprintUserMessages: [TwinStickPawn_317] 40.0
+[2022.06.05-17.41.30:597][701]LogBlueprintUserMessages: [TwinStickPawn_317] 20.0
+[2022.06.05-17.41.32:054][772]LogBlueprintUserMessages: [TwinStickPawn_317] 0.0
+[2022.06.05-17.41.34:109][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-17.41.34:109][872]LogWorld: BeginTearingDown for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2022.06.05-17.41.34:109][872]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.05-17.41.34:110][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-17.41.34:141][872]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.05-17.41.34:154][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-17.41.34:186][872]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.05-17.41.34:186][872]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-17.41.34:187][872]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-17.41.34:190][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-17.41.34:195][872]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2022.06.05-17.41.34:230][873]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.06.05-17.41.41:116][561]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.06.05-17.41.41:145][561]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.06.05-17.41.50:514][560]LogBlueprint: Warning: [AssetLog] C:\Users\USUARIO\Documents\Unreal Projects\TP_FINAL_DESAROLLO_AVANZADO\YourWorstNightmare\Content\BP\BP_Enemy.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  Event ActorBeginOverlap  and was replaced as a Custom Event!
+[2022.06.05-17.42.33:786][ 98]BlueprintLog: New page: Compile BP_Enemy
+[2022.06.05-17.42.33:865][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2022.06.05-17.42.34:757][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Enemy" FILE="../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/BP/BP_Enemy.uasset" SILENT=true
+[2022.06.05-17.42.34:769][164]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/BP_EnemyAEBF428A40451E8156F366A9F7637A7C.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/BP/BP_Enemy.uasset'
+[2022.06.05-17.42.34:786][164]AssetCheck: New page: Asset Save: BP_Enemy
+[2022.06.05-17.42.34:786][164]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_Enemy.BP_Enemy
+[2022.06.05-17.42.45:967][363]BlueprintLog: New page: Compile BP_Enemy
+[2022.06.05-17.42.46:042][363]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2022.06.05-17.42.46:649][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Enemy" FILE="../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/BP/BP_Enemy.uasset" SILENT=true
+[2022.06.05-17.42.46:661][395]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/BP_Enemy40ABB4124365AB7A871135993A421173.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/BP/BP_Enemy.uasset'
+[2022.06.05-17.42.46:678][395]AssetCheck: New page: Asset Save: BP_Enemy
+[2022.06.05-17.42.46:678][395]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_Enemy.BP_Enemy
+[2022.06.05-17.43.08:241][  7]BlueprintLog: New page: Compile BP_Enemy
+[2022.06.05-17.43.08:339][  7]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2022.06.05-17.44.50:340][136]BlueprintLog: New page: Compile BP_Enemy
+[2022.06.05-17.44.50:421][136]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2022.06.05-17.44.51:104][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Enemy" FILE="../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/BP/BP_Enemy.uasset" SILENT=true
+[2022.06.05-17.44.51:122][175]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/BP_EnemyCE2E17A74E88A15A08754694B4C83B0E.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/BP/BP_Enemy.uasset'
+[2022.06.05-17.44.51:146][175]AssetCheck: New page: Asset Save: BP_Enemy
+[2022.06.05-17.44.51:146][175]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_Enemy.BP_Enemy
+[2022.06.05-17.44.53:006][273]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.05-17.44.53:020][273]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.05-17.44.53:020][273]PIE: New page: PIE session: TwinStickExampleMap (Jun 5, 2022, 11:44:53 AM)
+[2022.06.05-17.44.53:020][273]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2022.06.05-17.44.53:030][273]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009909s)
+[2022.06.05-17.44.53:033][273]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2022.06.05-17.44.53:034][273]LogPlayLevel: PIE: World Init took: (0.003930s)
+[2022.06.05-17.44.53:034][273]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.014333s)
+[2022.06.05-17.44.53:076][273]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2022.06.05-17.44.53:078][273]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.06.05-17.44.53:078][273]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.05-17.44.53:078][273]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.05-17.44.53:078][273]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.05-17.44.53:078][273]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.05-17.44.53:078][273]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.05-17.44.53:078][273]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.05-17.44.53:078][273]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.05-17.44.53:078][273]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.05-17.44.53:079][273]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.05-17.44.53:079][273]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.05-17.44.53:079][273]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.05-17.44.53:079][273]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.05-17.44.53:084][273]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.05-17.44.53:084][273]LogAudioMixer: Display: 1: FrontRight
+[2022.06.05-17.44.53:092][273]LogAudioMixer: Display: Using Audio Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2022.06.05-17.44.53:092][273]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.05-17.44.53:093][273]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.05-17.44.53:093][273]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.05-17.44.53:094][273]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.05-17.44.53:094][273]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.05-17.44.53:094][273]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.05-17.44.53:096][273]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.05-17.44.53:096][273]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.05-17.44.53:096][273]LogInit: FAudioDevice initialized.
+[2022.06.05-17.44.53:097][273]LogAudio: Display: Audio Device (ID: 4) registered with world 'TwinStickExampleMap'.
+[2022.06.05-17.44.53:107][273]LogLoad: Game class is 'TwinStickGameMode_C'
+[2022.06.05-17.44.53:109][273]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2022.06.05-14.44.53
+[2022.06.05-17.44.53:109][273]LogWorld: Bringing up level for play took: 0.001986
+[2022.06.05-17.44.53:110][273]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.06.05-17.44.53:113][273]PIE: Server logged in
+[2022.06.05-17.44.53:113][273]PIE: Play in editor total start time 0.099 seconds.
+[2022.06.05-17.44.54:937][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-17.44.54:937][357]LogWorld: BeginTearingDown for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2022.06.05-17.44.54:938][357]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.05-17.44.54:938][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-17.44.54:979][357]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.05-17.44.54:991][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-17.44.55:023][357]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.05-17.44.55:023][357]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-17.44.55:025][357]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-17.44.55:028][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-17.44.55:031][357]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.06.05-17.44.55:058][358]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.06.05-17.45.43:877][201]LogBlueprint: Warning: [AssetLog] C:\Users\USUARIO\Documents\Unreal Projects\TP_FINAL_DESAROLLO_AVANZADO\YourWorstNightmare\Content\TwinStickBP\Blueprints\TwinStickPawn.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  Event Take Damage  and was replaced as a Custom Event!
+[2022.06.05-17.46.04:696][387]LogEditorTransaction: Undo Create Pin Link
+[2022.06.05-17.46.04:927][391]LogEditorTransaction: Undo Create Pin Link
+[2022.06.05-17.46.05:144][395]LogEditorTransaction: Undo Move Node
+[2022.06.05-17.46.05:346][405]LogEditorTransaction: Undo Delete current selection
+[2022.06.05-17.46.05:548][413]LogEditorTransaction: Undo Move Nodes
+[2022.06.05-17.46.05:752][422]LogEditorTransaction: Undo Paste clipboard contents
+[2022.06.05-17.46.05:955][427]LogEditorTransaction: Undo Move Node
+[2022.06.05-17.46.10:426][872]BlueprintLog: New page: Compile TwinStickPawn
+[2022.06.05-17.46.10:509][872]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2022.06.05-17.46.11:350][912]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/TwinStickPawnF89869B24FF763C8072F378692EEF3FA.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset'
+[2022.06.05-17.46.11:372][912]AssetCheck: New page: Asset Save: TwinStickPawn
+[2022.06.05-17.46.11:372][912]LogContentValidation: Display: Validating Blueprint /Game/TwinStickBP/Blueprints/TwinStickPawn.TwinStickPawn
+[2022.06.05-17.46.13:201][ 12]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.05-17.46.13:214][ 12]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.06.05-17.46.13:215][ 12]LogPlayLevel: [PlayLevel] Compiling BP_Enemy before play...
+[2022.06.05-17.46.13:316][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2022.06.05-17.46.13:316][ 12]LogPlayLevel: PlayLevel: Blueprint regeneration took 102 ms (1 blueprints)
+[2022.06.05-17.46.13:317][ 12]PIE: New page: PIE session: TwinStickExampleMap (Jun 5, 2022, 11:46:13 AM)
+[2022.06.05-17.46.13:317][ 12]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2022.06.05-17.46.13:323][ 12]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006478s)
+[2022.06.05-17.46.13:325][ 12]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2022.06.05-17.46.13:326][ 12]LogPlayLevel: PIE: World Init took: (0.002262s)
+[2022.06.05-17.46.13:326][ 12]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.009129s)
+[2022.06.05-17.46.13:361][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.06.05-17.46.13:362][ 12]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.06.05-17.46.13:362][ 12]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.05-17.46.13:362][ 12]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.05-17.46.13:362][ 12]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.05-17.46.13:362][ 12]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.05-17.46.13:362][ 12]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.05-17.46.13:362][ 12]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.05-17.46.13:362][ 12]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.05-17.46.13:362][ 12]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.05-17.46.13:363][ 12]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.05-17.46.13:363][ 12]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.05-17.46.13:363][ 12]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.05-17.46.13:363][ 12]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.05-17.46.13:369][ 12]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.05-17.46.13:370][ 12]LogAudioMixer: Display: 1: FrontRight
+[2022.06.05-17.46.13:378][ 12]LogAudioMixer: Display: Using Audio Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2022.06.05-17.46.13:378][ 12]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.05-17.46.13:378][ 12]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.05-17.46.13:378][ 12]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.05-17.46.13:379][ 12]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.05-17.46.13:379][ 12]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.05-17.46.13:379][ 12]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.05-17.46.13:381][ 12]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.05-17.46.13:381][ 12]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.05-17.46.13:381][ 12]LogInit: FAudioDevice initialized.
+[2022.06.05-17.46.13:381][ 12]LogAudio: Display: Audio Device (ID: 5) registered with world 'TwinStickExampleMap'.
+[2022.06.05-17.46.13:396][ 12]LogLoad: Game class is 'TwinStickGameMode_C'
+[2022.06.05-17.46.13:398][ 12]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2022.06.05-14.46.13
+[2022.06.05-17.46.13:398][ 12]LogWorld: Bringing up level for play took: 0.002089
+[2022.06.05-17.46.13:399][ 12]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.06.05-17.46.13:402][ 12]PIE: Server logged in
+[2022.06.05-17.46.13:403][ 12]PIE: Play in editor total start time 0.193 seconds.
+[2022.06.05-17.46.18:179][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-17.46.18:179][240]LogWorld: BeginTearingDown for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2022.06.05-17.46.18:180][240]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.05-17.46.18:180][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-17.46.18:212][240]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.05-17.46.18:225][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-17.46.18:258][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-17.46.18:258][240]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-17.46.18:260][240]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-17.46.18:267][240]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.06.05-17.46.18:304][241]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.06.05-17.46.34:863][904]BlueprintLog: New page: Compile BP_Enemy
+[2022.06.05-17.46.34:951][904]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2022.06.05-17.46.35:568][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Enemy" FILE="../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/BP/BP_Enemy.uasset" SILENT=true
+[2022.06.05-17.46.35:589][936]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/BP_Enemy9C123C134FE5583F7E8133B2E7F02346.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/BP/BP_Enemy.uasset'
+[2022.06.05-17.46.35:609][936]AssetCheck: New page: Asset Save: BP_Enemy
+[2022.06.05-17.46.35:609][936]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_Enemy.BP_Enemy
+[2022.06.05-17.46.46:601][721]BlueprintLog: New page: Compile BP_Enemy
+[2022.06.05-17.46.46:679][721]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2022.06.05-17.46.47:444][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Enemy" FILE="../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/BP/BP_Enemy.uasset" SILENT=true
+[2022.06.05-17.46.47:458][768]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/BP_Enemy590A763A4A1BE792A3664CA0ED0D0E26.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/BP/BP_Enemy.uasset'
+[2022.06.05-17.46.47:477][768]AssetCheck: New page: Asset Save: BP_Enemy
+[2022.06.05-17.46.47:478][768]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_Enemy.BP_Enemy
+[2022.06.05-17.47.01:040][341]BlueprintLog: New page: Compile BP_Enemy
+[2022.06.05-17.47.01:117][341]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2022.06.05-17.47.02:046][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Enemy" FILE="../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/BP/BP_Enemy.uasset" SILENT=true
+[2022.06.05-17.47.02:060][399]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/BP_Enemy2D1F82604DDD864666849DA4532DC59F.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/BP/BP_Enemy.uasset'
+[2022.06.05-17.47.02:079][399]AssetCheck: New page: Asset Save: BP_Enemy
+[2022.06.05-17.47.02:079][399]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_Enemy.BP_Enemy
+[2022.06.05-17.47.05:060][603]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.05-17.47.05:073][603]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.05-17.47.05:074][603]PIE: New page: PIE session: TwinStickExampleMap (Jun 5, 2022, 11:47:05 AM)
+[2022.06.05-17.47.05:074][603]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2022.06.05-17.47.05:084][603]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009808s)
+[2022.06.05-17.47.05:088][603]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2022.06.05-17.47.05:089][603]LogPlayLevel: PIE: World Init took: (0.003706s)
+[2022.06.05-17.47.05:089][603]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.014162s)
+[2022.06.05-17.47.05:132][603]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2022.06.05-17.47.05:133][603]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.06.05-17.47.05:134][603]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.05-17.47.05:134][603]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.05-17.47.05:134][603]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.05-17.47.05:134][603]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.05-17.47.05:134][603]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.05-17.47.05:134][603]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.05-17.47.05:134][603]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.05-17.47.05:134][603]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.05-17.47.05:134][603]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.05-17.47.05:134][603]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.05-17.47.05:134][603]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.05-17.47.05:135][603]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.05-17.47.05:140][603]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.05-17.47.05:141][603]LogAudioMixer: Display: 1: FrontRight
+[2022.06.05-17.47.05:149][603]LogAudioMixer: Display: Using Audio Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2022.06.05-17.47.05:149][603]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.05-17.47.05:149][603]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.05-17.47.05:149][603]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.05-17.47.05:150][603]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.05-17.47.05:150][603]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.05-17.47.05:150][603]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.05-17.47.05:153][603]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.05-17.47.05:153][603]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.05-17.47.05:153][603]LogInit: FAudioDevice initialized.
+[2022.06.05-17.47.05:153][603]LogAudio: Display: Audio Device (ID: 6) registered with world 'TwinStickExampleMap'.
+[2022.06.05-17.47.05:170][603]LogLoad: Game class is 'TwinStickGameMode_C'
+[2022.06.05-17.47.05:172][603]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2022.06.05-14.47.05
+[2022.06.05-17.47.05:173][603]LogWorld: Bringing up level for play took: 0.001820
+[2022.06.05-17.47.05:173][603]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2022.06.05-17.47.05:176][603]PIE: Server logged in
+[2022.06.05-17.47.05:177][603]PIE: Play in editor total start time 0.108 seconds.
+[2022.06.05-17.47.08:969][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-17.47.08:969][786]LogWorld: BeginTearingDown for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2022.06.05-17.47.08:969][786]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.05-17.47.08:969][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-17.47.09:006][786]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.05-17.47.09:020][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-17.47.09:055][786]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.05-17.47.09:055][786]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-17.47.09:057][786]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-17.47.09:060][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-17.47.09:064][786]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.06.05-17.47.09:100][787]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.06.05-17.47.29:145][989]BlueprintLog: New page: Compile TwinStickPawn
+[2022.06.05-17.47.29:227][989]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2022.06.05-17.47.30:012][ 30]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/TwinStickPawn50F37F634B0A39D5300C249B7F5706D3.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset'
+[2022.06.05-17.47.30:032][ 30]AssetCheck: New page: Asset Save: TwinStickPawn
+[2022.06.05-17.47.30:032][ 30]LogContentValidation: Display: Validating Blueprint /Game/TwinStickBP/Blueprints/TwinStickPawn.TwinStickPawn
+[2022.06.05-17.47.31:595][106]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.05-17.47.31:608][106]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.05-17.47.31:608][106]PIE: New page: PIE session: TwinStickExampleMap (Jun 5, 2022, 11:47:31 AM)
+[2022.06.05-17.47.31:608][106]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2022.06.05-17.47.31:618][106]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010013s)
+[2022.06.05-17.47.31:621][106]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2022.06.05-17.47.31:622][106]LogPlayLevel: PIE: World Init took: (0.003306s)
+[2022.06.05-17.47.31:622][106]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.013954s)
+[2022.06.05-17.47.31:666][106]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2022.06.05-17.47.31:667][106]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.06.05-17.47.31:667][106]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.05-17.47.31:667][106]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.05-17.47.31:667][106]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.05-17.47.31:667][106]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.05-17.47.31:667][106]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.05-17.47.31:667][106]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.05-17.47.31:667][106]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.05-17.47.31:667][106]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.05-17.47.31:668][106]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.05-17.47.31:668][106]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.05-17.47.31:668][106]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.05-17.47.31:668][106]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.05-17.47.31:673][106]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.05-17.47.31:673][106]LogAudioMixer: Display: 1: FrontRight
+[2022.06.05-17.47.31:681][106]LogAudioMixer: Display: Using Audio Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2022.06.05-17.47.31:682][106]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.05-17.47.31:682][106]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.05-17.47.31:682][106]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.05-17.47.31:683][106]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.05-17.47.31:683][106]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.05-17.47.31:683][106]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.05-17.47.31:685][106]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.05-17.47.31:685][106]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.05-17.47.31:685][106]LogInit: FAudioDevice initialized.
+[2022.06.05-17.47.31:685][106]LogAudio: Display: Audio Device (ID: 7) registered with world 'TwinStickExampleMap'.
+[2022.06.05-17.47.31:695][106]LogLoad: Game class is 'TwinStickGameMode_C'
+[2022.06.05-17.47.31:697][106]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2022.06.05-14.47.31
+[2022.06.05-17.47.31:698][106]LogWorld: Bringing up level for play took: 0.001901
+[2022.06.05-17.47.31:698][106]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.06.05-17.47.31:701][106]PIE: Server logged in
+[2022.06.05-17.47.31:702][106]PIE: Play in editor total start time 0.098 seconds.
+[2022.06.05-17.47.35:998][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-17.47.35:998][310]LogWorld: BeginTearingDown for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2022.06.05-17.47.35:998][310]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.05-17.47.35:998][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-17.47.36:037][310]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.05-17.47.36:049][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-17.47.36:085][310]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.05-17.47.36:085][310]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-17.47.36:087][310]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-17.47.36:090][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-17.47.36:093][310]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2022.06.05-17.47.36:131][311]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.06.05-17.47.54:945][196]BlueprintLog: New page: Compile TwinStickPawn
+[2022.06.05-17.47.55:027][196]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2022.06.05-17.47.55:852][235]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/TwinStickPawn93569773458DD3231580FC91430D8524.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset'
+[2022.06.05-17.47.55:871][235]AssetCheck: New page: Asset Save: TwinStickPawn
+[2022.06.05-17.47.55:871][235]LogContentValidation: Display: Validating Blueprint /Game/TwinStickBP/Blueprints/TwinStickPawn.TwinStickPawn
+[2022.06.05-17.48.05:712][272]BlueprintLog: New page: Compile TwinStickPawn
+[2022.06.05-17.48.05:793][272]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2022.06.05-17.48.06:547][310]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/TwinStickPawn68D68C0F4514B11BFAB257A844D098B2.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset'
+[2022.06.05-17.48.06:570][310]AssetCheck: New page: Asset Save: TwinStickPawn
+[2022.06.05-17.48.06:570][310]LogContentValidation: Display: Validating Blueprint /Game/TwinStickBP/Blueprints/TwinStickPawn.TwinStickPawn
+[2022.06.05-17.48.07:976][380]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.05-17.48.07:988][380]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.05-17.48.07:988][380]PIE: New page: PIE session: TwinStickExampleMap (Jun 5, 2022, 11:48:07 AM)
+[2022.06.05-17.48.07:988][380]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2022.06.05-17.48.07:999][380]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011209s)
+[2022.06.05-17.48.08:002][380]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2022.06.05-17.48.08:004][380]LogPlayLevel: PIE: World Init took: (0.003882s)
+[2022.06.05-17.48.08:004][380]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.015577s)
+[2022.06.05-17.48.08:046][380]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2022.06.05-17.48.08:047][380]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.06.05-17.48.08:047][380]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.05-17.48.08:048][380]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.05-17.48.08:048][380]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.05-17.48.08:048][380]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.05-17.48.08:048][380]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.05-17.48.08:048][380]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.05-17.48.08:048][380]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.05-17.48.08:048][380]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.05-17.48.08:048][380]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.05-17.48.08:048][380]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.05-17.48.08:048][380]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.05-17.48.08:048][380]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.05-17.48.08:054][380]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.05-17.48.08:054][380]LogAudioMixer: Display: 1: FrontRight
+[2022.06.05-17.48.08:063][380]LogAudioMixer: Display: Using Audio Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2022.06.05-17.48.08:064][380]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.05-17.48.08:064][380]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.05-17.48.08:064][380]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.05-17.48.08:065][380]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.05-17.48.08:065][380]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.05-17.48.08:065][380]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.05-17.48.08:067][380]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.05-17.48.08:067][380]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.05-17.48.08:067][380]LogInit: FAudioDevice initialized.
+[2022.06.05-17.48.08:067][380]LogAudio: Display: Audio Device (ID: 8) registered with world 'TwinStickExampleMap'.
+[2022.06.05-17.48.08:083][380]LogLoad: Game class is 'TwinStickGameMode_C'
+[2022.06.05-17.48.08:085][380]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2022.06.05-14.48.08
+[2022.06.05-17.48.08:085][380]LogWorld: Bringing up level for play took: 0.001672
+[2022.06.05-17.48.08:086][380]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.06.05-17.48.08:089][380]PIE: Server logged in
+[2022.06.05-17.48.08:090][380]PIE: Play in editor total start time 0.105 seconds.
+[2022.06.05-17.48.09:576][448]LogBlueprintUserMessages: [TwinStickPawn_317] 80.0
+[2022.06.05-17.48.10:251][481]LogBlueprintUserMessages: [TwinStickPawn_317] 60.0
+[2022.06.05-17.48.11:314][532]LogBlueprintUserMessages: [TwinStickPawn_317] 40.0
+[2022.06.05-17.48.12:728][598]LogBlueprintUserMessages: [TwinStickPawn_317] 20.0
+[2022.06.05-17.48.13:607][641]LogBlueprintUserMessages: [TwinStickPawn_317] 0.0
+[2022.06.05-17.48.15:199][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-17.48.15:199][718]LogWorld: BeginTearingDown for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2022.06.05-17.48.15:200][718]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.05-17.48.15:200][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-17.48.15:236][718]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.05-17.48.15:250][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-17.48.15:285][718]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.05-17.48.15:285][718]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-17.48.15:287][718]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-17.48.15:290][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-17.48.15:294][718]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2022.06.05-17.48.15:333][719]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.06.05-17.48.22:374][399]BlueprintLog: New page: Compile TwinStickPawn
+[2022.06.05-17.48.22:448][399]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2022.06.05-17.48.23:774][502]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/TwinStickPawn0E0AAC10488633C9DF5CE2800A7B52E5.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset'
+[2022.06.05-17.48.23:798][502]AssetCheck: New page: Asset Save: TwinStickPawn
+[2022.06.05-17.48.23:798][502]LogContentValidation: Display: Validating Blueprint /Game/TwinStickBP/Blueprints/TwinStickPawn.TwinStickPawn
+[2022.06.05-17.48.25:159][570]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.05-17.48.25:173][570]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.05-17.48.25:174][570]PIE: New page: PIE session: TwinStickExampleMap (Jun 5, 2022, 11:48:25 AM)
+[2022.06.05-17.48.25:174][570]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2022.06.05-17.48.25:184][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010123s)
+[2022.06.05-17.48.25:186][570]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2022.06.05-17.48.25:188][570]LogPlayLevel: PIE: World Init took: (0.002932s)
+[2022.06.05-17.48.25:188][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.013712s)
+[2022.06.05-17.48.25:236][570]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2022.06.05-17.48.25:237][570]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.06.05-17.48.25:237][570]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.05-17.48.25:237][570]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.05-17.48.25:237][570]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.05-17.48.25:237][570]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.05-17.48.25:237][570]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.05-17.48.25:237][570]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.05-17.48.25:237][570]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.05-17.48.25:237][570]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.05-17.48.25:238][570]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.05-17.48.25:238][570]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.05-17.48.25:238][570]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.05-17.48.25:238][570]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.05-17.48.25:244][570]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.05-17.48.25:244][570]LogAudioMixer: Display: 1: FrontRight
+[2022.06.05-17.48.25:251][570]LogAudioMixer: Display: Using Audio Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2022.06.05-17.48.25:252][570]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.05-17.48.25:252][570]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.05-17.48.25:252][570]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.05-17.48.25:254][570]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.05-17.48.25:254][570]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.05-17.48.25:254][570]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.05-17.48.25:256][570]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.05-17.48.25:256][570]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.05-17.48.25:256][570]LogInit: FAudioDevice initialized.
+[2022.06.05-17.48.25:256][570]LogAudio: Display: Audio Device (ID: 9) registered with world 'TwinStickExampleMap'.
+[2022.06.05-17.48.25:271][570]LogLoad: Game class is 'TwinStickGameMode_C'
+[2022.06.05-17.48.25:273][570]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2022.06.05-14.48.25
+[2022.06.05-17.48.25:274][570]LogWorld: Bringing up level for play took: 0.001795
+[2022.06.05-17.48.25:274][570]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.06.05-17.48.25:277][570]PIE: Server logged in
+[2022.06.05-17.48.25:278][570]PIE: Play in editor total start time 0.11 seconds.
+[2022.06.05-17.48.26:360][618]LogBlueprintUserMessages: [TwinStickPawn_317] 80.0
+[2022.06.05-17.48.27:328][665]LogBlueprintUserMessages: [TwinStickPawn_317] 60.0
+[2022.06.05-17.48.28:180][706]LogBlueprintUserMessages: [TwinStickPawn_317] 40.0
+[2022.06.05-17.48.29:314][761]LogBlueprintUserMessages: [TwinStickPawn_317] 20.0
+[2022.06.05-17.48.30:301][809]LogBlueprintUserMessages: [TwinStickPawn_317] 0.0
+[2022.06.05-17.48.31:937][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-17.48.31:937][890]LogWorld: BeginTearingDown for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2022.06.05-17.48.31:938][890]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.05-17.48.31:938][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-17.48.31:969][890]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.05-17.48.31:981][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-17.48.32:012][890]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.05-17.48.32:012][890]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-17.48.32:014][890]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-17.48.32:017][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-17.48.32:020][890]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.06.05-17.48.32:056][891]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.06.05-17.48.57:006][184]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel)
+[2022.06.05-17.49.01:596][378]Cmd: DELETE
+[2022.06.05-17.49.01:597][378]Cmd: ACTOR DELETE
+[2022.06.05-17.49.01:623][378]LogEditorActor: Deleted Actor: TextRenderActor
+[2022.06.05-17.49.01:665][378]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.06.05-17.49.01:669][378]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2022.06.05-17.49.02:171][401]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.06.05-17.49.06:643][620]BlueprintLog: New page: Compile TwinStickPawn
+[2022.06.05-17.49.06:722][620]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2022.06.05-17.49.07:595][666]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/TwinStickPawn8B7B62484199E0E2A7EAF0856518BDFB.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset'
+[2022.06.05-17.49.07:617][666]AssetCheck: New page: Asset Save: TwinStickPawn
+[2022.06.05-17.49.07:617][666]LogContentValidation: Display: Validating Blueprint /Game/TwinStickBP/Blueprints/TwinStickPawn.TwinStickPawn
+[2022.06.05-17.49.08:711][766]BlueprintLog: New page: Compile BP_Enemy
+[2022.06.05-17.49.08:778][766]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2022.06.05-17.49.09:424][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Enemy" FILE="../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/BP/BP_Enemy.uasset" SILENT=true
+[2022.06.05-17.49.09:437][802]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/BP_Enemy198A2C4846B6ED5AB64CA4B208B6D10C.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/BP/BP_Enemy.uasset'
+[2022.06.05-17.49.09:455][802]AssetCheck: New page: Asset Save: BP_Enemy
+[2022.06.05-17.49.09:456][802]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_Enemy.BP_Enemy
+[2022.06.05-17.49.11:179][900]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2022.06.05-17.49.11:208][900]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/TwinStickExampleMap8ED31E5F4E246F2893E2329D9AAB46C1.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2022.06.05-17.49.11:631][900]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/TwinStickExampleMap_BuiltDataB699740F4972A827D7A0508B0206E851.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2022.06.05-17.49.11:647][900]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.05-17.49.11:647][900]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.TwinStickExampleMap_BuiltData
+[2022.06.05-17.49.11:647][900]LogContentValidation: Display: Validating World /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap
