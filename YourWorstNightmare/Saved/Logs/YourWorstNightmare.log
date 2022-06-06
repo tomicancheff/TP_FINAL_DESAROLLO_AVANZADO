@@ -2427,3 +2427,141 @@ Make sure 'BP_MovingEnemy_C' has been compiled for  Get Health
 [2022.06.06-01.22.03:278][694]AssetCheck: New page: Asset Save: multiple assets
 [2022.06.06-01.22.03:278][694]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.TwinStickExampleMap_BuiltData
 [2022.06.06-01.22.03:278][694]LogContentValidation: Display: Validating World /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap
+[2022.06.06-01.22.26:699][904]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2022.06.06-01.22.28:642][904]LogSlate: Window 'Save Content' being destroyed
+[2022.06.06-01.22.30:821][ 51]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/BP_MovingEnemyB1C73DD943D8945A315A4BBBAA2760FB.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/BP/BP_MovingEnemy.uasset'
+[2022.06.06-01.22.30:846][ 51]AssetCheck: New page: Asset Save: BP_MovingEnemy
+[2022.06.06-01.22.30:846][ 51]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_MovingEnemy.BP_MovingEnemy
+[2022.06.06-01.22.31:876][136]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.06.06-01.22.31:876][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.06-01.22.34:361][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Enemy" FILE="../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/BP/BP_Enemy.uasset" SILENT=true
+[2022.06.06-01.22.34:381][320]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/BP_Enemy404EB2AC4B2457A7561633A668F0D134.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/BP/BP_Enemy.uasset'
+[2022.06.06-01.22.34:405][320]AssetCheck: New page: Asset Save: BP_Enemy
+[2022.06.06-01.22.34:405][320]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_Enemy.BP_Enemy
+[2022.06.06-01.22.35:838][469]BlueprintLog: New page: Compile BP_Enemy
+[2022.06.06-01.22.35:929][469]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2022.06.06-01.22.36:615][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Enemy" FILE="../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/BP/BP_Enemy.uasset" SILENT=true
+[2022.06.06-01.22.36:637][503]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/BP_Enemy375293954768E7FFB629C9BC6E512ECB.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/BP/BP_Enemy.uasset'
+[2022.06.06-01.22.36:657][503]AssetCheck: New page: Asset Save: BP_Enemy
+[2022.06.06-01.22.36:658][503]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_Enemy.BP_Enemy
+[2022.06.06-01.22.37:268][560]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.06.06-01.22.37:268][560]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.06.06-01.22.37:268][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.06-01.22.39:136][680]BlueprintLog: New page: Compile TwinStickProjectile
+[2022.06.06-01.22.39:205][680]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2022.06.06-01.22.40:046][730]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/TwinStickProjectile9EEF9F7E4069400D92FCC390AF2717C9.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/TwinStickBP/Blueprints/TwinStickProjectile.uasset'
+[2022.06.06-01.22.40:072][730]AssetCheck: New page: Asset Save: TwinStickProjectile
+[2022.06.06-01.22.40:072][730]LogContentValidation: Display: Validating Blueprint /Game/TwinStickBP/Blueprints/TwinStickProjectile.TwinStickProjectile
+[2022.06.06-01.22.42:093][851]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.06.06-01.22.42:093][851]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.06.06-01.22.42:093][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.06-01.22.43:166][879]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2022.06.06-01.22.43:201][879]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/TwinStickExampleMapBD6438984989DFAE5FC6D08672C8BB16.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2022.06.06-01.22.43:611][879]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/TwinStickExampleMap_BuiltDataBD84FC2D46D2700E8AC970A2A4F82D07.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2022.06.06-01.22.43:627][879]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.06-01.22.43:627][879]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.TwinStickExampleMap_BuiltData
+[2022.06.06-01.22.43:627][879]LogContentValidation: Display: Validating World /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap
+[2022.06.06-01.22.45:954][961]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2022.06.06-01.22.48:468][961]LogSlate: Window 'Save Content' being destroyed
+[2022.06.06-01.22.48:511][961]LogSlate: Window 'YourWorstNightmare - Unreal Editor' being destroyed
+[2022.06.06-01.22.48:956][962]Cmd: QUIT_EDITOR
+[2022.06.06-01.22.48:956][962]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.06.06-01.22.49:130][962]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.06.06-01.22.49:794][962]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.06.06-01.22.49:794][962]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.06.06-01.22.49:794][962]LogAudio: Display: Audio Device unregistered from world 'TwinStickExampleMap'.
+[2022.06.06-01.22.49:795][962]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.06-01.22.49:800][962]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.06-01.22.49:873][962]LogAudio: Display: Audio Device Manager Shutdown
+[2022.06.06-01.22.49:873][962]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.06-01.22.49:896][962]LogExit: Preparing to exit.
+[2022.06.06-01.22.49:988][962]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2022.06.06-01.22.50:650][962]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.06.06-01.22.50:653][962]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.06.06-01.22.50:656][962]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.06.06-01.22.50:659][962]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.06.06-01.22.50:662][962]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.06.06-01.22.50:665][962]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.06.06-01.22.50:668][962]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.06.06-01.22.50:887][962]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.06.06-01.22.51:016][962]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.06.06-01.22.51:017][962]LogExit: Editor shut down
+[2022.06.06-01.22.51:033][962]LogExit: Transaction tracking system shut down
+[2022.06.06-01.22.52:118][962]LogExit: Object subsystem successfully closed.
+[2022.06.06-01.22.52:145][962]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.06-01.22.52:145][962]LogShaderCompilers: Display: Total job queries 78, among them cache hits 47 (60.26%)
+[2022.06.06-01.22.52:145][962]LogShaderCompilers: Display: Tracking 20 distinct input hashes that result in 15 distinct outputs (75.00%)
+[2022.06.06-01.22.52:145][962]LogShaderCompilers: Display: RAM used: 0.06 MB (0.00 GB) of 307.20 MB (0.30 GB) budget. Usage: 0.02%
+[2022.06.06-01.22.52:145][962]LogShaderCompilers: Display: ================================================
+[2022.06.06-01.22.52:184][962]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.06.06-01.22.52:479][962]LogModuleManager: Shutting down and abandoning module BlueprintGraph (878)
+[2022.06.06-01.22.52:479][962]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (876)
+[2022.06.06-01.22.52:479][962]LogModuleManager: Shutting down and abandoning module Voice (874)
+[2022.06.06-01.22.52:480][962]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (872)
+[2022.06.06-01.22.52:480][962]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (870)
+[2022.06.06-01.22.52:481][962]LogModuleManager: Shutting down and abandoning module SceneOutliner (868)
+[2022.06.06-01.22.52:481][962]LogModuleManager: Shutting down and abandoning module AddContentDialog (866)
+[2022.06.06-01.22.52:517][962]LogModuleManager: Shutting down and abandoning module WidgetCarousel (865)
+[2022.06.06-01.22.52:517][962]LogModuleManager: Shutting down and abandoning module EditorWidgets (862)
+[2022.06.06-01.22.52:517][962]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2022.06.06-01.22.52:518][962]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2022.06.06-01.22.52:519][962]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2022.06.06-01.22.52:519][962]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2022.06.06-01.22.52:520][962]LogModuleManager: Shutting down and abandoning module SteamVREditor (852)
+[2022.06.06-01.22.52:520][962]LogModuleManager: Shutting down and abandoning module OculusMR (850)
+[2022.06.06-01.22.52:520][962]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (848)
+[2022.06.06-01.22.52:523][962]LogModuleManager: Shutting down and abandoning module TakeRecorder (847)
+[2022.06.06-01.22.52:527][962]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (844)
+[2022.06.06-01.22.52:527][962]LogModuleManager: Shutting down and abandoning module TakesCore (842)
+[2022.06.06-01.22.52:528][962]LogModuleManager: Shutting down and abandoning module OpenXRInput (840)
+[2022.06.06-01.22.52:529][962]LogModuleManager: Shutting down and abandoning module GooglePADEditor (838)
+[2022.06.06-01.22.52:529][962]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (836)
+[2022.06.06-01.22.52:530][962]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (834)
+[2022.06.06-01.22.52:533][962]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (832)
+[2022.06.06-01.22.52:534][962]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (830)
+[2022.06.06-01.22.52:537][962]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (828)
+[2022.06.06-01.22.52:538][962]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (826)
+[2022.06.06-01.22.52:538][962]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (824)
+[2022.06.06-01.22.52:538][962]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (822)
+[2022.06.06-01.22.52:538][962]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (820)
+[2022.06.06-01.22.52:538][962]LogModuleManager: Shutting down and abandoning module WebMMedia (818)
+[2022.06.06-01.22.52:539][962]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (816)
+[2022.06.06-01.22.52:540][962]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (814)
+[2022.06.06-01.22.52:542][962]LogModuleManager: Shutting down and abandoning module SequenceRecorder (813)
+[2022.06.06-01.22.52:542][962]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (810)
+[2022.06.06-01.22.52:542][962]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (808)
+[2022.06.06-01.22.52:542][962]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (806)
+[2022.06.06-01.22.52:543][962]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (804)
+[2022.06.06-01.22.52:543][962]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (802)
+[2022.06.06-01.22.52:543][962]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (800)
+[2022.06.06-01.22.52:543][962]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (798)
+[2022.06.06-01.22.52:543][962]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (796)
+[2022.06.06-01.22.52:543][962]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (794)
+[2022.06.06-01.22.52:543][962]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (792)
+[2022.06.06-01.22.52:543][962]LogModuleManager: Shutting down and abandoning module TextureAlignMode (790)
+[2022.06.06-01.22.52:543][962]LogModuleManager: Shutting down and abandoning module BspMode (788)
+[2022.06.06-01.22.52:543][962]LogModuleManager: Shutting down and abandoning module GeometryMode (786)
+[2022.06.06-01.22.52:543][962]LogModuleManager: Shutting down and abandoning module PlanarCut (784)
+[2022.06.06-01.22.52:544][962]LogModuleManager: Shutting down and abandoning module CharacterAI (782)
+[2022.06.06-01.22.52:544][962]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (780)
+[2022.06.06-01.22.52:546][962]LogModuleManager: Shutting down and abandoning module SmartSnapping (778)
+[2022.06.06-01.22.52:547][962]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2022.06.06-01.22.52:548][962]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2022.06.06-01.22.52:550][962]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2022.06.06-01.22.52:550][962]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2022.06.06-01.22.52:551][962]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2022.06.06-01.22.52:555][962]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2022.06.06-01.22.52:556][962]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2022.06.06-01.22.52:556][962]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2022.06.06-01.22.52:556][962]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2022.06.06-01.22.52:556][962]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2022.06.06-01.22.52:556][962]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2022.06.06-01.22.52:556][962]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2022.06.06-01.22.52:559][962]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2022.06.06-01.22.52:560][962]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2022.06.06-01.22.52:564][962]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2022.06.06-01.22.52:565][962]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2022.06.06-01.22.52:565][962]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2022.06.06-01.22.52:565][962]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2022.06.06-01.22.52:566][962]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2022.06.06-01.22.52:567][962]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
