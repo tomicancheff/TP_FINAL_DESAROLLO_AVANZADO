@@ -1293,3 +1293,1621 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.10-01.27.21:446][179]AssetCheck: New page: Asset Save: multiple assets
 [2022.06.10-01.27.21:446][179]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.TwinStickExampleMap_BuiltData
 [2022.06.10-01.27.21:446][179]LogContentValidation: Display: Validating World /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap
+[2022.06.10-01.31.30:468][227]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.06.10-01.31.30:480][227]LogBlueprint: Error: [AssetLog] C:\Users\USUARIO\Documents\Unreal Projects\TP_FINAL_DESAROLLO_AVANZADO\YourWorstNightmare\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2022.06.10-01.31.30:482][227]LogBlueprint: Warning: [AssetLog] C:\Users\USUARIO\Documents\Unreal Projects\TP_FINAL_DESAROLLO_AVANZADO\YourWorstNightmare\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Could not find a variable named "VR_Marker" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Get VR_Marker
+[2022.06.10-01.31.30:482][227]LogBlueprint: Warning: [AssetLog] C:\Users\USUARIO\Documents\Unreal Projects\TP_FINAL_DESAROLLO_AVANZADO\YourWorstNightmare\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Could not find a variable named "UsingMotionControllers?" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Get UsingMotionControllers?
+[2022.06.10-01.31.30:483][227]LogBlueprint: Warning: [AssetLog] C:\Users\USUARIO\Documents\Unreal Projects\TP_FINAL_DESAROLLO_AVANZADO\YourWorstNightmare\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Could not find a variable named "FirstPersonCamera" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Get FirstPersonCamera
+[2022.06.10-01.31.30:483][227]LogBlueprint: Warning: [AssetLog] C:\Users\USUARIO\Documents\Unreal Projects\TP_FINAL_DESAROLLO_AVANZADO\YourWorstNightmare\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Could not find a variable named "Sphere" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Get Sphere
+[2022.06.10-01.31.30:483][227]LogBlueprint: Warning: [AssetLog] C:\Users\USUARIO\Documents\Unreal Projects\TP_FINAL_DESAROLLO_AVANZADO\YourWorstNightmare\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Could not find a variable named "Mesh2P" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Get Mesh2P
+[2022.06.10-01.31.30:484][227]LogBlueprint: Warning: [AssetLog] C:\Users\USUARIO\Documents\Unreal Projects\TP_FINAL_DESAROLLO_AVANZADO\YourWorstNightmare\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Fire' for  InputAction Fire
+[2022.06.10-01.31.30:485][227]LogBlueprint: Warning: [AssetLog] C:\Users\USUARIO\Documents\Unreal Projects\TP_FINAL_DESAROLLO_AVANZADO\YourWorstNightmare\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2022.06.10-01.31.30:485][227]LogBlueprint: Warning: [AssetLog] C:\Users\USUARIO\Documents\Unreal Projects\TP_FINAL_DESAROLLO_AVANZADO\YourWorstNightmare\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Could not find a variable named "GunOffset" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Get GunOffset
+[2022.06.10-01.31.30:491][227]LogBlueprint: Error: [AssetLog] C:\Users\USUARIO\Documents\Unreal Projects\TP_FINAL_DESAROLLO_AVANZADO\YourWorstNightmare\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] The property associated with  Mesh 2P  could not be found in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'
+[2022.06.10-01.31.30:705][227]LogUObjectHash: Compacting FUObjectHashTables data took  11.26ms
+[2022.06.10-01.32.30:989][112]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.06.10-01.32.31:072][112]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2022.06.10-01.33.12:198][576]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.06.10-01.33.12:213][576]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.06.10-01.33.12:237][576]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.06.10-01.33.25:064][ 93]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_ThirdPersonProjectile
+[2022.06.10-01.33.25:336][ 93]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.06.10-01.33.27:479][127]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/BP_ThirdPersonProjectile.BP_ThirdPersonProjectile
+[2022.06.10-01.33.28:260][127]LogRenderer: Reallocating scene render targets to support 896x408 Format 10 NumSamples 1 (Frame:1).
+[2022.06.10-01.33.30:659][182]LogSlate: Window 'BP_ThirdPersonProjectile' being destroyed
+[2022.06.10-01.33.57:694][257]LogEditorTransaction: Undo Modify Component(s)
+[2022.06.10-01.34.01:532][418]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:533][418]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:550][419]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:551][419]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:551][419]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:567][420]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:568][420]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:568][420]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:585][421]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:586][421]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:586][421]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:603][422]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:605][422]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:605][422]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:620][423]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:622][423]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:622][423]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:638][424]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:639][424]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:639][424]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:656][425]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:656][425]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:656][425]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:674][426]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:674][426]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:674][426]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:693][427]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:694][427]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:694][427]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:711][428]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:711][428]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:712][428]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:731][429]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:732][429]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:732][429]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:749][430]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:750][430]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:750][430]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:768][431]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:768][431]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:768][431]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:786][432]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:787][432]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:787][432]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:805][433]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:805][433]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:805][433]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:823][434]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:823][434]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:823][434]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:840][435]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.01:840][435]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonProjectile_C_0.Sphere1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.06.10-01.34.12:398][985]BlueprintLog: New page: Compile BP_ThirdPersonProjectile
+[2022.06.10-01.34.12:497][985]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2022.06.10-01.34.13:665][ 23]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/BP_ThirdPersonProjectile521DCD7D48791416F71D9583E172E7F3.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/ThirdPersonBP/Blueprints/BP_ThirdPersonProjectile.uasset'
+[2022.06.10-01.34.14:020][ 23]AssetCheck: New page: Asset Save: BP_ThirdPersonProjectile
+[2022.06.10-01.34.14:020][ 23]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/BP_ThirdPersonProjectile.BP_ThirdPersonProjectile
+[2022.06.10-01.34.32:810][530]BlueprintLog: New page: Compile BP_ThirdPersonProjectile
+[2022.06.10-01.34.32:886][530]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2022.06.10-01.34.33:720][552]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/BP_ThirdPersonProjectileC88ECF984D7EB3112B132E9EC15E185A.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/ThirdPersonBP/Blueprints/BP_ThirdPersonProjectile.uasset'
+[2022.06.10-01.34.33:737][552]AssetCheck: New page: Asset Save: BP_ThirdPersonProjectile
+[2022.06.10-01.34.33:737][552]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/BP_ThirdPersonProjectile.BP_ThirdPersonProjectile
+[2022.06.10-01.34.55:494][ 48]LogEditorTransaction: Undo Resize Node
+[2022.06.10-01.35.52:626][606]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.06.10-01.35.52:823][606]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.06.10-01.36.20:112][523]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.06.10-01.36.20:122][523]LogBlueprint: Error: [AssetLog] C:\Users\USUARIO\Documents\Unreal Projects\TP_FINAL_DESAROLLO_AVANZADO\YourWorstNightmare\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.06.10-01.36.20:122][523]LogBlueprint: Error: [AssetLog] C:\Users\USUARIO\Documents\Unreal Projects\TP_FINAL_DESAROLLO_AVANZADO\YourWorstNightmare\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.06.10-01.36.20:203][523]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2022.06.10-01.36.21:121][556]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/ThirdPersonCharacter8449AB9E4429F4E35CD1628BB5191939.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.06.10-01.36.21:138][556]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.06.10-01.36.21:138][556]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.06.10-01.36.26:932][ 71]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.06.10-01.36.26:960][ 71]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.06.10-01.37.06:539][191]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.06.10-01.37.06:628][191]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2022.06.10-01.37.07:972][285]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/ThirdPersonCharacterA18769F249D16E5EE881E8BC2611B9CF.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.06.10-01.37.07:990][285]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.06.10-01.37.07:990][285]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.06.10-01.37.09:282][341]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.10-01.37.09:300][341]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.10-01.37.09:307][341]PIE: New page: PIE session: TwinStickExampleMap (Jun 9, 2022, 7:37:09 PM)
+[2022.06.10-01.37.09:309][341]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2022.06.10-01.37.09:329][341]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019451s)
+[2022.06.10-01.37.09:332][341]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2022.06.10-01.37.09:334][341]LogPlayLevel: PIE: World Init took: (0.004074s)
+[2022.06.10-01.37.09:334][341]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.024774s)
+[2022.06.10-01.37.09:373][341]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2022.06.10-01.37.09:377][341]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.06.10-01.37.09:377][341]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.10-01.37.09:377][341]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.10-01.37.09:377][341]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.10-01.37.09:377][341]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.10-01.37.09:377][341]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.10-01.37.09:377][341]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.10-01.37.09:377][341]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.10-01.37.09:377][341]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.10-01.37.09:378][341]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.10-01.37.09:378][341]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.10-01.37.09:378][341]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.10-01.37.09:378][341]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.10-01.37.09:383][341]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.10-01.37.09:383][341]LogAudioMixer: Display: 1: FrontRight
+[2022.06.10-01.37.09:394][341]LogAudioMixer: Display: Using Audio Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2022.06.10-01.37.09:394][341]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.10-01.37.09:394][341]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.10-01.37.09:394][341]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.10-01.37.09:395][341]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.10-01.37.09:395][341]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.10-01.37.09:395][341]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.10-01.37.09:397][341]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.10-01.37.09:397][341]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.10-01.37.09:397][341]LogInit: FAudioDevice initialized.
+[2022.06.10-01.37.09:397][341]LogAudio: Display: Audio Device (ID: 8) registered with world 'TwinStickExampleMap'.
+[2022.06.10-01.37.09:411][341]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.06.10-01.37.09:424][341]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2022.06.09-22.37.09
+[2022.06.10-01.37.09:439][341]LogWorld: Bringing up level for play took: 0.019753
+[2022.06.10-01.37.09:442][341]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2022.06.10-01.37.09:465][341]PIE: Server logged in
+[2022.06.10-01.37.09:466][341]PIE: Play in editor total start time 0.174 seconds.
+[2022.06.10-01.37.15:107][597]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.10-01.37.15:107][597]LogWorld: BeginTearingDown for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2022.06.10-01.37.15:110][597]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.10-01.37.15:112][597]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.10-01.37.15:134][597]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.10-01.37.15:148][597]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.10-01.37.15:184][597]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.10-01.37.15:187][597]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.10-01.37.15:189][597]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.10-01.37.15:195][597]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.10-01.37.15:206][597]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2022.06.10-01.37.15:245][598]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.06.10-01.37.42:467][293]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.06.10-01.37.42:553][293]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2022.06.10-01.37.43:844][381]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/ThirdPersonCharacterB1F44226467DCDBCB091BEA7CCAC9F18.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.06.10-01.37.43:860][381]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.06.10-01.37.43:860][381]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.06.10-01.37.45:358][462]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.10-01.37.45:370][462]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.10-01.37.45:371][462]PIE: New page: PIE session: TwinStickExampleMap (Jun 9, 2022, 7:37:45 PM)
+[2022.06.10-01.37.45:371][462]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2022.06.10-01.37.45:380][462]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009258s)
+[2022.06.10-01.37.45:382][462]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2022.06.10-01.37.45:383][462]LogPlayLevel: PIE: World Init took: (0.002372s)
+[2022.06.10-01.37.45:383][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.011916s)
+[2022.06.10-01.37.45:425][462]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2022.06.10-01.37.45:427][462]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.06.10-01.37.45:427][462]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.10-01.37.45:427][462]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.10-01.37.45:427][462]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.10-01.37.45:427][462]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.10-01.37.45:428][462]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.10-01.37.45:428][462]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.10-01.37.45:428][462]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.10-01.37.45:428][462]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.10-01.37.45:429][462]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.10-01.37.45:429][462]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.10-01.37.45:429][462]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.10-01.37.45:429][462]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.10-01.37.45:435][462]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.10-01.37.45:435][462]LogAudioMixer: Display: 1: FrontRight
+[2022.06.10-01.37.45:442][462]LogAudioMixer: Display: Using Audio Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2022.06.10-01.37.45:443][462]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.10-01.37.45:443][462]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.10-01.37.45:443][462]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.10-01.37.45:445][462]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.10-01.37.45:445][462]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.10-01.37.45:445][462]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.10-01.37.45:447][462]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.10-01.37.45:447][462]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.10-01.37.45:447][462]LogInit: FAudioDevice initialized.
+[2022.06.10-01.37.45:447][462]LogAudio: Display: Audio Device (ID: 9) registered with world 'TwinStickExampleMap'.
+[2022.06.10-01.37.45:459][462]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.06.10-01.37.45:462][462]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2022.06.09-22.37.45
+[2022.06.10-01.37.45:463][462]LogWorld: Bringing up level for play took: 0.002994
+[2022.06.10-01.37.45:463][462]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2022.06.10-01.37.45:468][462]PIE: Server logged in
+[2022.06.10-01.37.45:469][462]PIE: Play in editor total start time 0.102 seconds.
+[2022.06.10-01.37.50:315][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.10-01.37.50:315][680]LogWorld: BeginTearingDown for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2022.06.10-01.37.50:316][680]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.10-01.37.50:317][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.10-01.37.50:341][680]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.10-01.37.50:354][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.10-01.37.50:392][680]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.10-01.37.50:392][680]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.10-01.37.50:393][680]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.10-01.37.50:396][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.10-01.37.50:401][680]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2022.06.10-01.37.50:440][681]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.06.10-01.38.27:732][751]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2022.06.10-01.38.27:736][751]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TwinStickBP/Maps/TwinStickExampleMap' took 0.067
+[2022.06.10-01.38.27:739][751]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/BP_Enemy] ([2] browsable assets)...
+[2022.06.10-01.38.27:819][751]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/BP_Enemy.BP_Enemy]
+[2022.06.10-01.38.27:819][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_Enemy]
+[2022.06.10-01.38.27:867][751]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/BP_Enemy_Auto1118F37AE432107E0C31002AD691056EB.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/Autosaves/Game/BP/BP_Enemy_Auto1.uasset'
+[2022.06.10-01.38.27:871][751]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BP_ThirdPersonProjectile] ([2] browsable assets)...
+[2022.06.10-01.38.27:871][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BP_ThirdPersonProjectile]
+[2022.06.10-01.38.27:882][751]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/BP_ThirdPersonProjectile_Auto183F28CFC42E963AEFA04BDA58118F268.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_ThirdPersonProjectile_Auto1.uasset'
+[2022.06.10-01.38.27:883][751]LogFileHelpers: Auto-saving content packages took 0.147
+[2022.06.10-01.40.17:735][772]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.06.10-01.40.17:817][772]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2022.06.10-01.40.18:855][834]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/ThirdPersonCharacter9D1E49094DDB6F74B77227BE67AEC4E1.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.06.10-01.40.18:869][834]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.06.10-01.40.18:869][834]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.06.10-01.40.20:673][ 23]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.06.10-01.40.20:673][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.10-01.41.02:712][888]LogSlate: Window 'New Level' being destroyed
+[2022.06.10-01.41.42:704][166]LogSlate: Window 'New Level' being destroyed
+[2022.06.10-01.41.48:670][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2022.06.10-01.42.10:371][900]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2022.06.10-01.42.10:397][900]LogContentBrowser: Creating deferred item: NewWorld
+[2022.06.10-01.42.11:157][935]LogContentBrowser: Attempting asset rename: NewWorld -> NewWorld
+[2022.06.10-01.42.11:334][935]LogContentBrowser: End creating deferred item NewWorld
+[2022.06.10-01.42.12:900][985]LogUObjectHash: Compacting FUObjectHashTables data took   6.89ms
+[2022.06.10-01.42.15:530][985]LogSlate: Window 'Save Content' being destroyed
+[2022.06.10-01.42.15:899][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Enemy" FILE="../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/BP/BP_Enemy.uasset" SILENT=true
+[2022.06.10-01.42.15:930][985]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/BP_Enemy623B609D4A0CFEA01914249AA0C51B98.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/BP/BP_Enemy.uasset'
+[2022.06.10-01.42.15:940][985]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/BP_ThirdPersonProjectile233AA37B4CC1E1A5D81E3DA94649198D.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/ThirdPersonBP/Blueprints/BP_ThirdPersonProjectile.uasset'
+[2022.06.10-01.42.16:301][985]LogUObjectHash: Compacting FUObjectHashTables data took   5.75ms
+[2022.06.10-01.42.16:305][985]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/NewWorld5915EC484219AE83CB2BB28A2D297A2B.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/Levels/NewWorld.umap'
+[2022.06.10-01.42.16:557][985]LogFileHelpers: Saving map 'NewWorld' took 0.345
+[2022.06.10-01.42.16:602][985]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/NewWorld.NewWorld
+[2022.06.10-01.42.16:603][985]Cmd: MAP LOAD FILE="../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/Levels/NewWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.10-01.42.16:603][985]LightingResults: New page: Lighting Build
+[2022.06.10-01.42.16:605][985]LoadErrors: New page: Loading map: NewWorld.umap
+[2022.06.10-01.42.16:619][985]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.10-01.42.16:620][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.10-01.42.16:620][985]MapCheck: New page: Map Check
+[2022.06.10-01.42.16:620][985]LightingResults: New page: Lighting Build
+[2022.06.10-01.42.16:665][985]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.10-01.42.16:708][985]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2022.06.10-01.42.16:719][985]LogAudio: Display: Audio Device (ID: 1) registered with world 'NewWorld'.
+[2022.06.10-01.42.16:774][985]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.10-01.42.16:774][985]LogAIModule: Creating AISystem for world NewWorld
+[2022.06.10-01.42.16:825][985]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2022.06.10-01.42.16:833][985]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.10-01.42.16:834][985]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.207ms to complete.
+[2022.06.10-01.42.16:834][985]LogFileHelpers: Loading map 'NewWorld' took 0.231
+[2022.06.10-01.42.16:867][985]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.10-01.42.16:867][985]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_Enemy.BP_Enemy
+[2022.06.10-01.42.16:867][985]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/BP_ThirdPersonProjectile.BP_ThirdPersonProjectile
+[2022.06.10-01.42.16:867][985]LogContentValidation: Display: Validating World /Game/Levels/NewWorld.NewWorld
+[2022.06.10-01.42.25:420][332]LogSlate: Window 'New Level' being destroyed
+[2022.06.10-01.42.25:426][332]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.10-01.42.25:445][332]LightingResults: New page: Lighting Build
+[2022.06.10-01.42.25:446][332]LoadErrors: New page: Loading map: Template_Default.umap
+[2022.06.10-01.42.25:447][332]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2022.06.10-01.42.25:447][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.10-01.42.25:448][332]MapCheck: New page: Map Check
+[2022.06.10-01.42.25:448][332]LightingResults: New page: Lighting Build
+[2022.06.10-01.42.25:502][332]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.10-01.42.25:509][332]LogUObjectHash: Compacting FUObjectHashTables data took   6.11ms
+[2022.06.10-01.42.25:544][332]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2022.06.10-01.42.25:556][332]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2022.06.10-01.42.25:557][332]LogAIModule: Creating AISystem for world Untitled_1
+[2022.06.10-01.42.25:708][332]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.10-01.42.25:763][332]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2022.06.10-01.42.25:772][332]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.10-01.42.25:773][332]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.335ms to complete.
+[2022.06.10-01.42.25:773][332]LogFileHelpers: Loading map 'Template_Default' took 0.347
+[2022.06.10-01.42.39:347][884]LogObjectTools: Deleting 1 worlds: /Game/Levels/NewWorld.NewWorld
+[2022.06.10-01.42.39:347][884]LogObjectTools: Currently 9 active worlds: /Temp/Untitled_1.Untitled_1, /Engine/Transient.World_0, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9
+[2022.06.10-01.42.39:396][884]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2022.06.10-01.42.40:444][884]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.10-01.42.40:480][884]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2022.06.10-01.42.40:480][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.10-01.42.40:751][884]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2022.06.10-01.42.40:811][884]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.06.10-01.42.40:858][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.06.10-01.42.41:124][884]SourceControl: rm 'YourWorstNightmare/Content/Levels/NewWorld.umap'
+[2022.06.10-01.42.43:328][974]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.06.10-01.42.43:371][974]LogLinker: Warning: [AssetLog] C:\Users\USUARIO\Documents\Unreal Projects\TP_FINAL_DESAROLLO_AVANZADO\YourWorstNightmare\Content\Levels\L_LevelOne.umap: Failed to load '/Game/Levels/L_LevelOne_BuiltData': Can't find file.
+[2022.06.10-01.42.43:372][974]LogLinker: Warning: [AssetLog] C:\Users\USUARIO\Documents\Unreal Projects\TP_FINAL_DESAROLLO_AVANZADO\YourWorstNightmare\Content\Levels\L_LevelOne.umap: Failed to load '/Game/Levels/L_LevelOne_BuiltData': Can't find file.
+[2022.06.10-01.42.43:373][974]LogLinker: Warning: [AssetLog] C:\Users\USUARIO\Documents\Unreal Projects\TP_FINAL_DESAROLLO_AVANZADO\YourWorstNightmare\Content\Levels\L_LevelOne.umap: Failed to load '/Game/Levels/L_LevelOne_BuiltData': Can't find file.
+[2022.06.10-01.42.43:374][974]LogLinker: Warning: Failed to load '/Game/Levels/L_LevelOne_BuiltData': Can't find file.
+[2022.06.10-01.42.43:375][974]LogLinker: Warning: Failed to load '/Game/Levels/L_LevelOne_BuiltData': Can't find file.
+[2022.06.10-01.42.43:378][974]LogLinker: Warning: [AssetLog] C:\Users\USUARIO\Documents\Unreal Projects\TP_FINAL_DESAROLLO_AVANZADO\YourWorstNightmare\Content\Levels\L_LevelOne.umap: Failed to load '/Game/Levels/L_LevelOne_BuiltData': Can't find file.
+[2022.06.10-01.42.43:378][974]LoadErrors: Failed to load /Game/Levels/L_LevelOne_BuiltData.L_LevelOne_BuiltData Referenced by PersistentLevel
+[2022.06.10-01.42.43:405][974]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/L_LevelOne.L_LevelOne
+[2022.06.10-01.42.43:405][974]Cmd: MAP LOAD FILE="../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/Levels/L_LevelOne.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.10-01.42.43:406][974]LightingResults: New page: Lighting Build
+[2022.06.10-01.42.43:406][974]LoadErrors: New page: Loading map: L_LevelOne.umap
+[2022.06.10-01.42.43:407][974]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2022.06.10-01.42.43:407][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.10-01.42.43:407][974]MapCheck: New page: Map Check
+[2022.06.10-01.42.43:407][974]LightingResults: New page: Lighting Build
+[2022.06.10-01.42.43:451][974]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.10-01.42.43:457][974]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2022.06.10-01.42.43:457][974]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_LevelOne'.
+[2022.06.10-01.42.43:498][974]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.10-01.42.43:498][974]LogAIModule: Creating AISystem for world L_LevelOne
+[2022.06.10-01.42.43:501][974]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2022.06.10-01.42.43:549][974]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2022.06.10-01.42.43:555][974]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.10-01.42.43:556][974]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.188ms to complete.
+[2022.06.10-01.42.43:556][974]LogFileHelpers: Loading map 'L_LevelOne' took 0.150
+[2022.06.10-01.44.24:395][924]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.10-01.44.24:408][924]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.10-01.44.24:408][924]PIE: New page: PIE session: L_LevelOne (Jun 9, 2022, 7:44:24 PM)
+[2022.06.10-01.44.24:408][924]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2022.06.10-01.44.24:418][924]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009478s)
+[2022.06.10-01.44.24:420][924]LogAIModule: Creating AISystem for world L_LevelOne
+[2022.06.10-01.44.24:421][924]LogPlayLevel: PIE: World Init took: (0.002591s)
+[2022.06.10-01.44.24:421][924]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.012354s)
+[2022.06.10-01.44.24:466][924]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2022.06.10-01.44.24:469][924]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.06.10-01.44.24:469][924]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.10-01.44.24:469][924]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.10-01.44.24:469][924]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.10-01.44.24:469][924]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.10-01.44.24:469][924]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.10-01.44.24:469][924]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.10-01.44.24:470][924]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.10-01.44.24:470][924]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.10-01.44.24:470][924]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.10-01.44.24:470][924]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.10-01.44.24:470][924]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.10-01.44.24:470][924]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.10-01.44.24:476][924]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.10-01.44.24:476][924]LogAudioMixer: Display: 1: FrontRight
+[2022.06.10-01.44.24:484][924]LogAudioMixer: Display: Using Audio Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2022.06.10-01.44.24:484][924]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.10-01.44.24:484][924]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.10-01.44.24:484][924]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.10-01.44.24:485][924]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.10-01.44.24:485][924]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.10-01.44.24:485][924]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.10-01.44.24:487][924]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.10-01.44.24:487][924]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.10-01.44.24:487][924]LogInit: FAudioDevice initialized.
+[2022.06.10-01.44.24:487][924]LogAudio: Display: Audio Device (ID: 10) registered with world 'L_LevelOne'.
+[2022.06.10-01.44.24:497][924]LogLoad: Game class is 'TwinStickGameMode_C'
+[2022.06.10-01.44.24:500][924]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2022.06.09-22.44.24
+[2022.06.10-01.44.24:501][924]LogWorld: Bringing up level for play took: 0.003329
+[2022.06.10-01.44.24:501][924]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2022.06.10-01.44.24:505][924]PIE: Server logged in
+[2022.06.10-01.44.24:506][924]PIE: Play in editor total start time 0.102 seconds.
+[2022.06.10-01.44.36:356][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.10-01.44.36:356][439]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2022.06.10-01.44.36:356][439]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.06.10-01.44.36:357][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.10-01.44.36:375][439]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.10-01.44.36:382][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.10-01.44.36:418][439]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.10-01.44.36:418][439]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.10-01.44.36:419][439]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.10-01.44.36:422][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.10-01.44.36:428][439]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2022.06.10-01.44.36:466][440]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.06.10-01.45.33:976][980]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/BP_ThirdPersonProjectile.BP_ThirdPersonProjectile
+[2022.06.10-01.46.59:210][771]BlueprintLog: New page: Compile BP_ThirdPersonProjectile
+[2022.06.10-01.46.59:304][771]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2022.06.10-01.47.00:037][785]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/BP_ThirdPersonProjectileD38E7B574D2149B88702B696BBD5A36C.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/ThirdPersonBP/Blueprints/BP_ThirdPersonProjectile.uasset'
+[2022.06.10-01.47.00:058][785]AssetCheck: New page: Asset Save: BP_ThirdPersonProjectile
+[2022.06.10-01.47.00:058][785]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/BP_ThirdPersonProjectile.BP_ThirdPersonProjectile
+[2022.06.10-01.47.15:808][ 27]BlueprintLog: New page: Compile BP_ThirdPersonProjectile
+[2022.06.10-01.47.15:897][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2022.06.10-01.47.16:691][ 44]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/BP_ThirdPersonProjectileA76ADC034B3743C0C7ED9B967A281DBE.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/ThirdPersonBP/Blueprints/BP_ThirdPersonProjectile.uasset'
+[2022.06.10-01.47.16:713][ 44]AssetCheck: New page: Asset Save: BP_ThirdPersonProjectile
+[2022.06.10-01.47.16:713][ 44]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/BP_ThirdPersonProjectile.BP_ThirdPersonProjectile
+[2022.06.10-01.47.44:456][709]BlueprintLog: New page: Compile BP_ThirdPersonProjectile
+[2022.06.10-01.47.44:544][709]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2022.06.10-01.47.45:309][726]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/BP_ThirdPersonProjectile6F10DDAB40AEC9E82D36A09A1078422F.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/ThirdPersonBP/Blueprints/BP_ThirdPersonProjectile.uasset'
+[2022.06.10-01.47.45:331][726]AssetCheck: New page: Asset Save: BP_ThirdPersonProjectile
+[2022.06.10-01.47.45:331][726]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/BP_ThirdPersonProjectile.BP_ThirdPersonProjectile
+[2022.06.10-01.47.51:203][866]BlueprintLog: New page: Compile BP_ThirdPersonProjectile
+[2022.06.10-01.47.51:293][866]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2022.06.10-01.47.51:930][877]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/BP_ThirdPersonProjectileAA0543134E5A53B8CAEFF789846A8DC1.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/ThirdPersonBP/Blueprints/BP_ThirdPersonProjectile.uasset'
+[2022.06.10-01.47.51:950][877]AssetCheck: New page: Asset Save: BP_ThirdPersonProjectile
+[2022.06.10-01.47.51:950][877]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/BP_ThirdPersonProjectile.BP_ThirdPersonProjectile
+[2022.06.10-01.48.46:313][922]BlueprintLog: New page: Compile BP_ThirdPersonProjectile
+[2022.06.10-01.48.46:394][922]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2022.06.10-01.50.27:067][445]BlueprintLog: New page: Compile BP_ThirdPersonProjectile
+[2022.06.10-01.50.27:154][445]LogUObjectHash: Compacting FUObjectHashTables data took   6.51ms
+[2022.06.10-01.50.27:943][490]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/BP_ThirdPersonProjectileCA79034847500FF80CF786B3D8023101.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/ThirdPersonBP/Blueprints/BP_ThirdPersonProjectile.uasset'
+[2022.06.10-01.50.27:965][490]AssetCheck: New page: Asset Save: BP_ThirdPersonProjectile
+[2022.06.10-01.50.27:965][490]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/BP_ThirdPersonProjectile.BP_ThirdPersonProjectile
+[2022.06.10-01.52.34:912][260]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.06.10-01.52.35:018][260]LogUObjectHash: Compacting FUObjectHashTables data took   7.45ms
+[2022.06.10-01.52.40:668][547]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.06.10-01.52.40:668][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.10-01.52.43:293][604]LogUObjectHash: Compacting FUObjectHashTables data took   7.49ms
+[2022.06.10-01.52.47:220][604]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.10-01.52.49:072][636]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2022.06.10-01.52.49:102][636]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/L_LevelOneC1CC8DA647EC9F3F52D8858122F97EC5.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/Levels/L_LevelOne.umap'
+[2022.06.10-01.52.49:133][636]AssetCheck: New page: Asset Save: L_LevelOne
+[2022.06.10-01.52.49:133][636]LogContentValidation: Display: Validating World /Game/Levels/L_LevelOne.L_LevelOne
+[2022.06.10-01.52.57:983][714]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Intermediate/CachedAssetRegistry.bin', retrying in .5s...
+[2022.06.10-01.52.58:498][715]LogFileManager: Warning: DeleteFile recovered during retry!
+[2022.06.10-01.53.01:993][763]LogUObjectHash: Compacting FUObjectHashTables data took   7.21ms
+[2022.06.10-01.53.02:024][763]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/L_LevelOne87CB3FEE42C7A121A054F793877D89CD.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/Levels/L_LevelOne.umap'
+[2022.06.10-01.53.02:053][763]AssetCheck: New page: Asset Save: L_LevelOne
+[2022.06.10-01.53.02:053][763]LogContentValidation: Display: Validating World /Game/Levels/L_LevelOne.L_LevelOne
+[2022.06.10-01.53.05:693][860]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.10-01.53.05:706][860]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.10-01.53.05:707][860]PIE: New page: PIE session: L_LevelOne (Jun 9, 2022, 7:53:05 PM)
+[2022.06.10-01.53.05:707][860]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2022.06.10-01.53.05:715][860]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007925s)
+[2022.06.10-01.53.05:716][860]LogAIModule: Creating AISystem for world L_LevelOne
+[2022.06.10-01.53.05:717][860]LogPlayLevel: PIE: World Init took: (0.002009s)
+[2022.06.10-01.53.05:717][860]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.010181s)
+[2022.06.10-01.53.05:768][860]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2022.06.10-01.53.05:770][860]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.06.10-01.53.05:770][860]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.10-01.53.05:770][860]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.10-01.53.05:770][860]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.10-01.53.05:770][860]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.10-01.53.05:770][860]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.10-01.53.05:770][860]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.10-01.53.05:770][860]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.10-01.53.05:770][860]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.10-01.53.05:771][860]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.10-01.53.05:771][860]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.10-01.53.05:771][860]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.10-01.53.05:771][860]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.10-01.53.05:775][860]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.10-01.53.05:775][860]LogAudioMixer: Display: 1: FrontRight
+[2022.06.10-01.53.05:782][860]LogAudioMixer: Display: Using Audio Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2022.06.10-01.53.05:782][860]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.10-01.53.05:782][860]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.10-01.53.05:783][860]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.10-01.53.05:783][860]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.10-01.53.05:784][860]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.10-01.53.05:784][860]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.10-01.53.05:786][860]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.10-01.53.05:786][860]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.10-01.53.05:786][860]LogInit: FAudioDevice initialized.
+[2022.06.10-01.53.05:786][860]LogAudio: Display: Audio Device (ID: 11) registered with world 'L_LevelOne'.
+[2022.06.10-01.53.05:796][860]LogLoad: Game class is 'TwinStickGameMode_C'
+[2022.06.10-01.53.05:799][860]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2022.06.09-22.53.05
+[2022.06.10-01.53.05:799][860]LogWorld: Bringing up level for play took: 0.002937
+[2022.06.10-01.53.05:800][860]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2022.06.10-01.53.05:804][860]PIE: Server logged in
+[2022.06.10-01.53.05:805][860]PIE: Play in editor total start time 0.102 seconds.
+[2022.06.10-01.53.18:486][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.10-01.53.18:486][411]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2022.06.10-01.53.18:487][411]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.06.10-01.53.18:488][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.10-01.53.18:512][411]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.10-01.53.18:520][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.10-01.53.18:566][411]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.10-01.53.18:567][411]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.10-01.53.18:568][411]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.10-01.53.18:573][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.10-01.53.18:580][411]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2022.06.10-01.53.18:621][412]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.06.10-01.53.19:509][445]MapCheck: New page: Map Check
+[2022.06.10-01.53.19:555][445]Cmd: MAP REBUILD ALLVISIBLE
+[2022.06.10-01.53.19:555][445]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.06.10-01.53.19:597][445]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=false
+[2022.06.10-01.53.19:633][445]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.06.10-01.53.19:633][445]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.06.10-01.53.19:633][445]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.06.10-01.53.19:633][445]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2022.06.10-01.53.19:646][445]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.01s
+[2022.06.10-01.53.19:700][445]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2022.06.10-01.53.19:726][445]LogLevel: Display: Export Material TexCoord Scales took 0.024 seconds.
+[2022.06.10-01.53.19:733][445]TextureStreamingBuild: Display: Build Texture Streaming took 0.007 seconds.
+[2022.06.10-01.53.19:779][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.06.10-01.53.19:788][445]LightingResults: New page: Lighting Build - Jun 9, 2022, 7:53:19 PM
+[2022.06.10-01.53.20:073][445]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.06.10-01.53.20:194][445]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.06.10-01.53.20:267][445]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.06.10-01.53.21:352][445]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.06.10-01.53.21:352][445]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16844
+[2022.06.10-01.53.28:424][445]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.06.10-01.53.28:426][445]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.06.10-01.53.28:426][445]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.06.10-01.53.28:426][445]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.06.10-01.53.28:426][445]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.06.10-01.53.28:426][445]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.06.10-01.53.28:704][445]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.06.10-01.53.28:705][445]MapCheck: New page: L_LevelOne - Jun 9, 2022, 7:53:28 PM
+[2022.06.10-01.53.28:705][445]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2022.06.10-01.53.28:707][445]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 2.499ms to complete.
+[2022.06.10-01.53.28:711][445]LogEditorBuildUtils: Build time 0:09
+[2022.06.10-01.53.29:156][445]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer DefaultMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 566327371A74C7967063283C449C5ED092DC16D9), compiling. 
+[2022.06.10-01.53.29:183][445]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.06.10-01.53.29:187][445]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer DefaultMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 40E5401A258115C121855648548B132F6B798F34), compiling. 
+[2022.06.10-01.53.29:193][445]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.06.10-01.53.29:275][445]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.06.10-01.53.29:275][445]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2022.06.10-01.53.29:275][445]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2022.06.10-01.53.29:275][445]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.06.10-01.53.31:161][446]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2022.06.10-01.53.31:161][446]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.06.10-01.53.31:161][446]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.10-01.53.31:162][446]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2022.06.10-01.53.31:162][446]LogShaderCompilers: Display: Tracking 4 distinct input hashes that result in 4 distinct outputs (100.00%)
+[2022.06.10-01.53.31:162][446]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 307.20 MB (0.30 GB) budget. Usage: 0.00%
+[2022.06.10-01.53.31:162][446]LogShaderCompilers: Display: ================================================
+[2022.06.10-01.53.31:402][449]LogUObjectHash: Compacting FUObjectHashTables data took   7.55ms
+[2022.06.10-01.53.34:422][526]Job is a success!
+[2022.06.10-01.53.34:649][527]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.022s
+[2022.06.10-01.53.34:649][527]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.06.10-01.53.34:649][527]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb
+[2022.06.10-01.53.34:649][527]LogVolumetricLightmapImport:      Bricks at depth
+[2022.06.10-01.53.34:649][527]LogVolumetricLightmapImport:          0: 1.9% covering 100.0% of volume
+[2022.06.10-01.53.34:649][527]LogVolumetricLightmapImport:          1: 7.5% covering 6.2% of volume
+[2022.06.10-01.53.34:649][527]LogVolumetricLightmapImport:          2: 90.6% covering 1.2% of volume
+[2022.06.10-01.53.34:649][527]LogVolumetricLightmapImport:      Bricks in each level
+[2022.06.10-01.53.34:649][527]LogVolumetricLightmapImport:          L_LevelOne 			 53 bricks 	 100.0% (Persistent Level)
+[2022.06.10-01.53.34:784][527]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 512X512)
+[2022.06.10-01.53.34:784][527]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 512X512)
+[2022.06.10-01.53.34:784][527]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 128X128)
+[2022.06.10-01.53.34:784][527]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 128X128)
+[2022.06.10-01.53.34:784][527]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 64X64)
+[2022.06.10-01.53.34:784][527]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 64X64)
+[2022.06.10-01.53.34:784][527]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 128X64)
+[2022.06.10-01.53.34:784][527]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 32X32)
+[2022.06.10-01.53.34:784][527]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X128)
+[2022.06.10-01.53.34:879][527]Lightmass on DESKTOP-9MB3SSE: 2.55 sec total, 278 ms importing, 20 ms setup, 291 ms photons, 1.84 sec processing, 0 ms extra exporting [28/28 mappings]. Threads: 7.36 sec total, 1.77 sec processing.
+[2022.06.10-01.53.34:880][527]LogStaticLightingSystem: L_LevelOne_BuiltData storing lightmap data for 10 meshes in 3 LightmapResourceClusters (3.3 Meshes per cluster).
+[2022.06.10-01.53.34:987][527]LogUObjectHash: Compacting FUObjectHashTables data took   6.60ms
+[2022.06.10-01.53.35:037][527]LogStaticLightingSystem: Illumination: 15.1 sec (68 ms encoding lightmaps, 80 ms encoding shadowmaps)
+[2022.06.10-01.53.35:038][527]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 6 textures
+[2022.06.10-01.53.35:038][527]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 3 textures
+[2022.06.10-01.53.35:436][527]DumpUnbuiltLightIteractions
+[2022.06.10-01.53.35:436][527]Lights with unbuilt interactions: 0
+[2022.06.10-01.53.35:436][527]
+[2022.06.10-01.53.35:436][527]Primitives with unbuilt interactions: 0
+[2022.06.10-01.53.35:616][527]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2022.06.10-01.53.35:730][528]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.06.10-01.53.35:730][528]MapCheck: New page: L_LevelOne - Jun 9, 2022, 7:53:35 PM
+[2022.06.10-01.53.35:731][528]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.951ms to complete.
+[2022.06.10-01.53.52:227][ 62]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.10-01.53.52:240][ 62]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.10-01.53.52:240][ 62]PIE: New page: PIE session: L_LevelOne (Jun 9, 2022, 7:53:52 PM)
+[2022.06.10-01.53.52:240][ 62]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2022.06.10-01.53.52:251][ 62]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010986s)
+[2022.06.10-01.53.52:253][ 62]LogAIModule: Creating AISystem for world L_LevelOne
+[2022.06.10-01.53.52:253][ 62]LogPlayLevel: PIE: World Init took: (0.002133s)
+[2022.06.10-01.53.52:253][ 62]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.013393s)
+[2022.06.10-01.53.52:297][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2022.06.10-01.53.52:300][ 62]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.06.10-01.53.52:300][ 62]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.10-01.53.52:300][ 62]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.10-01.53.52:300][ 62]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.10-01.53.52:300][ 62]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.10-01.53.52:300][ 62]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.10-01.53.52:300][ 62]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.10-01.53.52:301][ 62]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.10-01.53.52:301][ 62]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.10-01.53.52:301][ 62]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.10-01.53.52:301][ 62]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.10-01.53.52:301][ 62]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.10-01.53.52:301][ 62]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.10-01.53.52:306][ 62]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.10-01.53.52:306][ 62]LogAudioMixer: Display: 1: FrontRight
+[2022.06.10-01.53.52:313][ 62]LogAudioMixer: Display: Using Audio Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2022.06.10-01.53.52:314][ 62]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.10-01.53.52:314][ 62]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.10-01.53.52:314][ 62]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.10-01.53.52:315][ 62]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.10-01.53.52:315][ 62]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.10-01.53.52:315][ 62]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.10-01.53.52:317][ 62]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.10-01.53.52:317][ 62]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.10-01.53.52:317][ 62]LogInit: FAudioDevice initialized.
+[2022.06.10-01.53.52:317][ 62]LogAudio: Display: Audio Device (ID: 12) registered with world 'L_LevelOne'.
+[2022.06.10-01.53.52:326][ 62]LogLoad: Game class is 'TwinStickGameMode_C'
+[2022.06.10-01.53.52:330][ 62]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2022.06.09-22.53.52
+[2022.06.10-01.53.52:331][ 62]LogWorld: Bringing up level for play took: 0.004125
+[2022.06.10-01.53.52:331][ 62]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2022.06.10-01.53.52:338][ 62]PIE: Server logged in
+[2022.06.10-01.53.52:339][ 62]PIE: Play in editor total start time 0.103 seconds.
+[2022.06.10-01.53.54:254][131]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 80.0
+[2022.06.10-01.53.56:733][224]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 60.0
+[2022.06.10-01.54.07:724][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.10-01.54.07:724][633]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2022.06.10-01.54.07:725][633]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.06.10-01.54.07:725][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.10-01.54.07:748][633]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.10-01.54.07:761][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.10-01.54.07:799][633]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.10-01.54.07:800][633]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.10-01.54.07:801][633]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.10-01.54.07:804][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.10-01.54.07:810][633]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2022.06.10-01.54.07:841][634]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.06.10-01.55.35:332][523]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.06.10-01.55.35:345][523]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.06.10-01.55.35:366][523]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.06.10-01.55.45:524][977]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Projectile
+[2022.06.10-01.55.45:706][977]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.06.10-01.55.47:357][ 15]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_Projectile.BP_Projectile
+[2022.06.10-01.55.50:297][ 86]LogSlate: Window 'BP_Projectile' being destroyed
+[2022.06.10-01.56.31:432][903]BlueprintLog: New page: Compile BP_Projectile
+[2022.06.10-01.56.31:526][903]LogUObjectHash: Compacting FUObjectHashTables data took   6.45ms
+[2022.06.10-01.56.32:173][916]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/BP_Projectile96DCAE7C42CD3E3D5C010EA687914D98.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/BP/BP_Projectile.uasset'
+[2022.06.10-01.56.32:465][916]AssetCheck: New page: Asset Save: BP_Projectile
+[2022.06.10-01.56.32:465][916]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_Projectile.BP_Projectile
+[2022.06.10-01.56.40:544][230]BlueprintLog: New page: Compile BP_Projectile
+[2022.06.10-01.56.40:644][230]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2022.06.10-01.56.41:538][255]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/BP_Projectile683D37BC4723876F8871459D844096F8.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/BP/BP_Projectile.uasset'
+[2022.06.10-01.56.41:561][255]AssetCheck: New page: Asset Save: BP_Projectile
+[2022.06.10-01.56.41:561][255]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_Projectile.BP_Projectile
+[2022.06.10-01.57.02:658][358]BlueprintLog: New page: Compile BP_Projectile
+[2022.06.10-01.57.02:758][358]LogUObjectHash: Compacting FUObjectHashTables data took   6.00ms
+[2022.06.10-01.57.03:484][375]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/BP_Projectile0AFAAEB94CBE12CAA5D02E98F5FEED24.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/BP/BP_Projectile.uasset'
+[2022.06.10-01.57.03:506][375]AssetCheck: New page: Asset Save: BP_Projectile
+[2022.06.10-01.57.03:506][375]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_Projectile.BP_Projectile
+[2022.06.10-01.57.16:025][563]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.06.10-01.57.16:055][563]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.06.10-01.57.23:554][182]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.06.10-01.57.23:563][182]LogBlueprint: Error: [AssetLog] C:\Users\USUARIO\Documents\Unreal Projects\TP_FINAL_DESAROLLO_AVANZADO\YourWorstNightmare\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.06.10-01.57.23:563][182]LogBlueprint: Error: [AssetLog] C:\Users\USUARIO\Documents\Unreal Projects\TP_FINAL_DESAROLLO_AVANZADO\YourWorstNightmare\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.06.10-01.57.23:650][182]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2022.06.10-01.57.24:458][232]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/ThirdPersonCharacter5BFEFD7249CE1DD62C4341B5001812CB.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.06.10-01.57.24:478][232]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.06.10-01.57.24:478][232]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.06.10-01.58.19:680][536]BlueprintLog: New page: Compile BP_Projectile
+[2022.06.10-01.58.19:786][536]LogUObjectHash: Compacting FUObjectHashTables data took   6.82ms
+[2022.06.10-01.58.20:417][550]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/BP_ProjectileC068F90643AEAC0055C8DB8445BF2DEF.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/BP/BP_Projectile.uasset'
+[2022.06.10-01.58.20:437][550]AssetCheck: New page: Asset Save: BP_Projectile
+[2022.06.10-01.58.20:438][550]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_Projectile.BP_Projectile
+[2022.06.10-01.58.48:743][645]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.06.10-01.58.48:756][645]LogBlueprint: Error: [AssetLog] C:\Users\USUARIO\Documents\Unreal Projects\TP_FINAL_DESAROLLO_AVANZADO\YourWorstNightmare\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.06.10-01.58.48:756][645]LogBlueprint: Error: [AssetLog] C:\Users\USUARIO\Documents\Unreal Projects\TP_FINAL_DESAROLLO_AVANZADO\YourWorstNightmare\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.06.10-01.58.48:850][645]LogUObjectHash: Compacting FUObjectHashTables data took   6.15ms
+[2022.06.10-01.58.49:766][670]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/ThirdPersonCharacterBFA251AD4B4BDC61D0EBDFA6E41ACAA5.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.06.10-01.58.49:785][670]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.06.10-01.58.49:785][670]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.06.10-01.59.42:173][690]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.06.10-01.59.42:305][690]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2022.06.10-01.59.43:128][733]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/ThirdPersonCharacter36655C99464E635E78ED3CA73D665AD4.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.06.10-01.59.43:151][733]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.06.10-01.59.43:151][733]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.06.10-01.59.44:806][832]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.10-01.59.44:819][832]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.10-01.59.44:820][832]PIE: New page: PIE session: L_LevelOne (Jun 9, 2022, 7:59:44 PM)
+[2022.06.10-01.59.44:820][832]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2022.06.10-01.59.44:829][832]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009580s)
+[2022.06.10-01.59.44:831][832]LogAIModule: Creating AISystem for world L_LevelOne
+[2022.06.10-01.59.44:832][832]LogPlayLevel: PIE: World Init took: (0.002390s)
+[2022.06.10-01.59.44:832][832]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.012243s)
+[2022.06.10-01.59.44:891][832]LogUObjectHash: Compacting FUObjectHashTables data took   6.83ms
+[2022.06.10-01.59.44:892][832]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.06.10-01.59.44:892][832]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.10-01.59.44:892][832]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.10-01.59.44:892][832]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.10-01.59.44:892][832]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.10-01.59.44:892][832]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.10-01.59.44:892][832]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.10-01.59.44:892][832]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.10-01.59.44:893][832]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.10-01.59.44:893][832]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.10-01.59.44:893][832]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.10-01.59.44:893][832]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.10-01.59.44:893][832]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.10-01.59.44:899][832]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.10-01.59.44:899][832]LogAudioMixer: Display: 1: FrontRight
+[2022.06.10-01.59.44:906][832]LogAudioMixer: Display: Using Audio Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2022.06.10-01.59.44:906][832]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.10-01.59.44:906][832]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.10-01.59.44:906][832]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.10-01.59.44:907][832]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.10-01.59.44:907][832]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.10-01.59.44:907][832]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.10-01.59.44:909][832]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.10-01.59.44:909][832]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.10-01.59.44:909][832]LogInit: FAudioDevice initialized.
+[2022.06.10-01.59.44:909][832]LogAudio: Display: Audio Device (ID: 13) registered with world 'L_LevelOne'.
+[2022.06.10-01.59.44:924][832]LogLoad: Game class is 'TwinStickGameMode_C'
+[2022.06.10-01.59.44:928][832]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2022.06.09-22.59.44
+[2022.06.10-01.59.44:928][832]LogWorld: Bringing up level for play took: 0.004124
+[2022.06.10-01.59.44:929][832]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2022.06.10-01.59.44:934][832]PIE: Server logged in
+[2022.06.10-01.59.44:935][832]PIE: Play in editor total start time 0.119 seconds.
+[2022.06.10-01.59.55:175][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.10-01.59.55:175][309]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2022.06.10-01.59.55:175][309]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.06.10-01.59.55:176][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.10-01.59.55:195][309]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.10-01.59.55:212][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.10-01.59.55:259][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.10-01.59.55:260][309]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.10-01.59.55:261][309]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.10-01.59.55:270][309]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2022.06.10-01.59.55:311][310]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.06.10-02.00.26:444][756]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.06.10-02.00.26:549][756]LogUObjectHash: Compacting FUObjectHashTables data took   6.19ms
+[2022.06.10-02.00.27:278][787]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/ThirdPersonCharacterA764EBEE47B1D3B13C69EABF24606C87.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.06.10-02.00.27:297][787]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.06.10-02.00.27:297][787]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.06.10-02.00.42:875][918]BlueprintLog: New page: Compile BP_Projectile
+[2022.06.10-02.00.42:975][918]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2022.06.10-02.00.43:838][943]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/BP_Projectile95AF7F86403DA67B5DF795973116ACD3.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/BP/BP_Projectile.uasset'
+[2022.06.10-02.00.43:860][943]AssetCheck: New page: Asset Save: BP_Projectile
+[2022.06.10-02.00.43:860][943]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_Projectile.BP_Projectile
+[2022.06.10-02.00.53:368][380]BlueprintLog: New page: Compile BP_Projectile
+[2022.06.10-02.00.53:467][380]LogUObjectHash: Compacting FUObjectHashTables data took   6.45ms
+[2022.06.10-02.00.54:208][397]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/BP_ProjectileFEEC97BB40EC6336578736AF07A12E14.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/BP/BP_Projectile.uasset'
+[2022.06.10-02.00.54:229][397]AssetCheck: New page: Asset Save: BP_Projectile
+[2022.06.10-02.00.54:229][397]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_Projectile.BP_Projectile
+[2022.06.10-02.00.56:309][482]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.10-02.00.56:322][482]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.10-02.00.56:322][482]PIE: New page: PIE session: L_LevelOne (Jun 9, 2022, 8:00:56 PM)
+[2022.06.10-02.00.56:322][482]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2022.06.10-02.00.56:331][482]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008686s)
+[2022.06.10-02.00.56:333][482]LogAIModule: Creating AISystem for world L_LevelOne
+[2022.06.10-02.00.56:333][482]LogPlayLevel: PIE: World Init took: (0.002203s)
+[2022.06.10-02.00.56:334][482]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.011152s)
+[2022.06.10-02.00.56:389][482]LogUObjectHash: Compacting FUObjectHashTables data took   6.41ms
+[2022.06.10-02.00.56:390][482]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.06.10-02.00.56:390][482]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.10-02.00.56:390][482]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.10-02.00.56:390][482]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.10-02.00.56:390][482]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.10-02.00.56:390][482]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.10-02.00.56:390][482]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.10-02.00.56:390][482]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.10-02.00.56:390][482]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.10-02.00.56:391][482]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.10-02.00.56:391][482]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.10-02.00.56:391][482]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.10-02.00.56:391][482]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.10-02.00.56:395][482]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.10-02.00.56:396][482]LogAudioMixer: Display: 1: FrontRight
+[2022.06.10-02.00.56:403][482]LogAudioMixer: Display: Using Audio Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2022.06.10-02.00.56:403][482]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.10-02.00.56:404][482]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.10-02.00.56:404][482]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.10-02.00.56:405][482]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.10-02.00.56:405][482]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.10-02.00.56:405][482]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.10-02.00.56:407][482]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.10-02.00.56:407][482]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.10-02.00.56:407][482]LogInit: FAudioDevice initialized.
+[2022.06.10-02.00.56:407][482]LogAudio: Display: Audio Device (ID: 14) registered with world 'L_LevelOne'.
+[2022.06.10-02.00.56:418][482]LogLoad: Game class is 'TwinStickGameMode_C'
+[2022.06.10-02.00.56:422][482]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2022.06.09-23.00.56
+[2022.06.10-02.00.56:422][482]LogWorld: Bringing up level for play took: 0.003542
+[2022.06.10-02.00.56:423][482]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2022.06.10-02.00.56:427][482]PIE: Server logged in
+[2022.06.10-02.00.56:429][482]PIE: Play in editor total start time 0.11 seconds.
+[2022.06.10-02.01.10:787][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.10-02.01.10:787][142]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2022.06.10-02.01.10:787][142]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.06.10-02.01.10:788][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.10-02.01.10:810][142]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.10-02.01.10:827][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.10-02.01.10:876][142]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.10-02.01.10:876][142]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.10-02.01.10:877][142]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.10-02.01.10:880][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.10-02.01.10:886][142]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2022.06.10-02.01.10:917][143]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.06.10-02.01.34:704][ 34]LogEditorViewport: Clicking on Actor (LMB): NPC_ThirdPersonEnemy_C (NPC_ThirdPersonEnemy2)
+[2022.06.10-02.01.39:271][157]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/NPC_ThirdPersonEnemy.NPC_ThirdPersonEnemy
+[2022.06.10-02.02.42:378][ 15]BlueprintLog: New page: Compile BP_Projectile
+[2022.06.10-02.02.42:472][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   6.27ms
+[2022.06.10-02.02.55:166][388]BlueprintLog: New page: Compile BP_Projectile
+[2022.06.10-02.02.55:254][388]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2022.06.10-02.02.55:886][424]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/BP_Projectile56E25E624B5AA8B667A7BEB4AEE779E8.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/BP/BP_Projectile.uasset'
+[2022.06.10-02.02.55:909][424]AssetCheck: New page: Asset Save: BP_Projectile
+[2022.06.10-02.02.55:910][424]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_Projectile.BP_Projectile
+[2022.06.10-02.02.59:490][679]LogEditorViewport: Clicking on Actor (LMB): BP_Enemy_C (BP_Enemy)
+[2022.06.10-02.03.01:979][750]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_Enemy.BP_Enemy
+[2022.06.10-02.03.09:254][458]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.06.10-02.03.09:282][458]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.06.10-02.03.15:942][ 75]BlueprintLog: New page: Compile NPC_ThirdPersonEnemy
+[2022.06.10-02.03.16:064][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2022.06.10-02.03.16:793][110]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/NPC_ThirdPersonEnemy89EFA08947FCE8F341C086BEFC5065EF.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/ThirdPersonBP/Blueprints/NPC_ThirdPersonEnemy.uasset'
+[2022.06.10-02.03.16:817][110]AssetCheck: New page: Asset Save: NPC_ThirdPersonEnemy
+[2022.06.10-02.03.16:817][110]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/NPC_ThirdPersonEnemy.NPC_ThirdPersonEnemy
+[2022.06.10-02.03.20:711][284]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.10-02.03.20:726][284]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.10-02.03.20:726][284]PIE: New page: PIE session: L_LevelOne (Jun 9, 2022, 8:03:20 PM)
+[2022.06.10-02.03.20:727][284]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2022.06.10-02.03.20:737][284]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010783s)
+[2022.06.10-02.03.20:738][284]LogAIModule: Creating AISystem for world L_LevelOne
+[2022.06.10-02.03.20:739][284]LogPlayLevel: PIE: World Init took: (0.001655s)
+[2022.06.10-02.03.20:739][284]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.012672s)
+[2022.06.10-02.03.20:801][284]LogUObjectHash: Compacting FUObjectHashTables data took   6.73ms
+[2022.06.10-02.03.20:802][284]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.06.10-02.03.20:802][284]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.10-02.03.20:802][284]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.10-02.03.20:802][284]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.10-02.03.20:802][284]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.10-02.03.20:802][284]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.10-02.03.20:802][284]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.10-02.03.20:802][284]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.10-02.03.20:802][284]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.10-02.03.20:803][284]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.10-02.03.20:803][284]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.10-02.03.20:803][284]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.10-02.03.20:803][284]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.10-02.03.20:808][284]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.10-02.03.20:808][284]LogAudioMixer: Display: 1: FrontRight
+[2022.06.10-02.03.20:816][284]LogAudioMixer: Display: Using Audio Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2022.06.10-02.03.20:816][284]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.10-02.03.20:816][284]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.10-02.03.20:816][284]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.10-02.03.20:818][284]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.10-02.03.20:818][284]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.10-02.03.20:818][284]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.10-02.03.20:820][284]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.10-02.03.20:820][284]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.10-02.03.20:820][284]LogInit: FAudioDevice initialized.
+[2022.06.10-02.03.20:820][284]LogAudio: Display: Audio Device (ID: 15) registered with world 'L_LevelOne'.
+[2022.06.10-02.03.20:828][284]LogLoad: Game class is 'TwinStickGameMode_C'
+[2022.06.10-02.03.20:831][284]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2022.06.09-23.03.20
+[2022.06.10-02.03.20:832][284]LogWorld: Bringing up level for play took: 0.003620
+[2022.06.10-02.03.20:832][284]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2022.06.10-02.03.20:837][284]PIE: Server logged in
+[2022.06.10-02.03.20:838][284]PIE: Play in editor total start time 0.115 seconds.
+[2022.06.10-02.03.30:295][721]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.10-02.03.30:295][721]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2022.06.10-02.03.30:295][721]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.06.10-02.03.30:297][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.10-02.03.30:322][721]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.10-02.03.30:337][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.10-02.03.30:390][721]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.10-02.03.30:391][721]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.10-02.03.30:392][721]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.10-02.03.30:395][721]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.10-02.03.30:402][721]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2022.06.10-02.03.30:434][722]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2022.06.10-02.03.48:234][395]BlueprintLog: New page: Compile BP_Projectile
+[2022.06.10-02.03.48:326][395]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2022.06.10-02.03.52:174][798]BlueprintLog: New page: Compile BP_Projectile
+[2022.06.10-02.03.52:277][798]LogUObjectHash: Compacting FUObjectHashTables data took   7.17ms
+[2022.06.10-02.03.52:802][818]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/BP_Projectile405D00314FA4DDAB94D45586EEFD0DDD.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/BP/BP_Projectile.uasset'
+[2022.06.10-02.03.52:824][818]AssetCheck: New page: Asset Save: BP_Projectile
+[2022.06.10-02.03.52:824][818]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_Projectile.BP_Projectile
+[2022.06.10-02.03.55:814][954]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.10-02.03.55:826][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.10-02.03.55:826][954]PIE: New page: PIE session: L_LevelOne (Jun 9, 2022, 8:03:55 PM)
+[2022.06.10-02.03.55:826][954]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2022.06.10-02.03.55:835][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008566s)
+[2022.06.10-02.03.55:837][954]LogAIModule: Creating AISystem for world L_LevelOne
+[2022.06.10-02.03.55:837][954]LogPlayLevel: PIE: World Init took: (0.002149s)
+[2022.06.10-02.03.55:837][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.011011s)
+[2022.06.10-02.03.55:904][954]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2022.06.10-02.03.55:905][954]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.06.10-02.03.55:906][954]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.10-02.03.55:906][954]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.10-02.03.55:906][954]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.10-02.03.55:906][954]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.10-02.03.55:906][954]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.10-02.03.55:906][954]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.10-02.03.55:906][954]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.10-02.03.55:906][954]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.10-02.03.55:906][954]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.10-02.03.55:906][954]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.10-02.03.55:906][954]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.10-02.03.55:906][954]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.10-02.03.55:912][954]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.10-02.03.55:912][954]LogAudioMixer: Display: 1: FrontRight
+[2022.06.10-02.03.55:918][954]LogAudioMixer: Display: Using Audio Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2022.06.10-02.03.55:919][954]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.10-02.03.55:919][954]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.10-02.03.55:919][954]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.10-02.03.55:920][954]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.10-02.03.55:920][954]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.10-02.03.55:920][954]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.10-02.03.55:922][954]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.10-02.03.55:922][954]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.10-02.03.55:922][954]LogInit: FAudioDevice initialized.
+[2022.06.10-02.03.55:922][954]LogAudio: Display: Audio Device (ID: 16) registered with world 'L_LevelOne'.
+[2022.06.10-02.03.55:932][954]LogLoad: Game class is 'TwinStickGameMode_C'
+[2022.06.10-02.03.55:935][954]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2022.06.09-23.03.55
+[2022.06.10-02.03.55:935][954]LogWorld: Bringing up level for play took: 0.003183
+[2022.06.10-02.03.55:936][954]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2022.06.10-02.03.55:940][954]PIE: Server logged in
+[2022.06.10-02.03.55:942][954]PIE: Play in editor total start time 0.119 seconds.
+[2022.06.10-02.03.56:326][970]LogBlueprintUserMessages: [BP_Projectile_C_0] bye
+[2022.06.10-02.03.58:914][ 91]LogBlueprintUserMessages: [BP_Projectile_C_1] bye
+[2022.06.10-02.03.59:039][ 97]LogBlueprintUserMessages: [BP_Projectile_C_1] bye
+[2022.06.10-02.04.00:316][157]LogBlueprintUserMessages: [BP_Projectile_C_2] bye
+[2022.06.10-02.04.00:442][163]LogBlueprintUserMessages: [BP_Projectile_C_2] bye
+[2022.06.10-02.04.00:675][174]LogBlueprintUserMessages: [BP_Projectile_C_3] bye
+[2022.06.10-02.04.00:800][180]LogBlueprintUserMessages: [BP_Projectile_C_3] bye
+[2022.06.10-02.04.00:845][182]LogBlueprintUserMessages: [BP_Projectile_C_4] bye
+[2022.06.10-02.04.00:970][188]LogBlueprintUserMessages: [BP_Projectile_C_4] bye
+[2022.06.10-02.04.01:034][191]LogBlueprintUserMessages: [BP_Projectile_C_5] bye
+[2022.06.10-02.04.01:162][197]LogBlueprintUserMessages: [BP_Projectile_C_5] bye
+[2022.06.10-02.04.01:645][219]LogBlueprintUserMessages: [BP_Projectile_C_6] bye
+[2022.06.10-02.04.01:647][219]LogBlueprintUserMessages: [BP_Projectile_C_6] bye
+[2022.06.10-02.04.01:858][229]LogBlueprintUserMessages: [BP_Projectile_C_7] bye
+[2022.06.10-02.04.01:859][229]LogBlueprintUserMessages: [BP_Projectile_C_7] bye
+[2022.06.10-02.04.02:049][238]LogBlueprintUserMessages: [BP_Projectile_C_8] bye
+[2022.06.10-02.04.02:051][238]LogBlueprintUserMessages: [BP_Projectile_C_8] bye
+[2022.06.10-02.04.02:260][248]LogBlueprintUserMessages: [BP_Projectile_C_9] bye
+[2022.06.10-02.04.02:262][248]LogBlueprintUserMessages: [BP_Projectile_C_9] bye
+[2022.06.10-02.04.02:496][258]LogBlueprintUserMessages: [BP_Projectile_C_10] bye
+[2022.06.10-02.04.02:498][258]LogBlueprintUserMessages: [BP_Projectile_C_10] bye
+[2022.06.10-02.04.02:625][264]LogBlueprintUserMessages: [BP_Projectile_C_11] bye
+[2022.06.10-02.04.02:626][264]LogBlueprintUserMessages: [BP_Projectile_C_11] bye
+[2022.06.10-02.04.02:816][273]LogBlueprintUserMessages: [BP_Projectile_C_12] bye
+[2022.06.10-02.04.02:818][273]LogBlueprintUserMessages: [BP_Projectile_C_12] bye
+[2022.06.10-02.04.03:008][282]LogBlueprintUserMessages: [BP_Projectile_C_13] bye
+[2022.06.10-02.04.03:010][282]LogBlueprintUserMessages: [BP_Projectile_C_13] bye
+[2022.06.10-02.04.03:202][291]LogBlueprintUserMessages: [BP_Projectile_C_14] bye
+[2022.06.10-02.04.03:204][291]LogBlueprintUserMessages: [BP_Projectile_C_14] bye
+[2022.06.10-02.04.04:617][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.10-02.04.04:617][355]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2022.06.10-02.04.04:618][355]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.06.10-02.04.04:619][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.10-02.04.04:637][355]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.10-02.04.04:653][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.10-02.04.04:710][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.10-02.04.04:711][355]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.10-02.04.04:712][355]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.10-02.04.04:720][355]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2022.06.10-02.04.04:762][356]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2022.06.10-02.04.30:316][511]BlueprintLog: New page: Compile BP_Projectile
+[2022.06.10-02.04.30:411][511]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2022.06.10-02.04.31:139][553]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/BP_Projectile3C097C134413E393C3B64D9F409E3B67.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/BP/BP_Projectile.uasset'
+[2022.06.10-02.04.31:163][553]AssetCheck: New page: Asset Save: BP_Projectile
+[2022.06.10-02.04.31:163][553]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_Projectile.BP_Projectile
+[2022.06.10-02.04.35:812][738]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.10-02.04.35:826][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.10-02.04.35:826][738]PIE: New page: PIE session: L_LevelOne (Jun 9, 2022, 8:04:35 PM)
+[2022.06.10-02.04.35:827][738]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2022.06.10-02.04.35:836][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009637s)
+[2022.06.10-02.04.35:838][738]LogAIModule: Creating AISystem for world L_LevelOne
+[2022.06.10-02.04.35:839][738]LogPlayLevel: PIE: World Init took: (0.002573s)
+[2022.06.10-02.04.35:839][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.012514s)
+[2022.06.10-02.04.35:897][738]LogUObjectHash: Compacting FUObjectHashTables data took   6.35ms
+[2022.06.10-02.04.35:899][738]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.06.10-02.04.35:899][738]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.10-02.04.35:899][738]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.10-02.04.35:899][738]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.10-02.04.35:899][738]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.10-02.04.35:899][738]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.10-02.04.35:899][738]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.10-02.04.35:899][738]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.10-02.04.35:899][738]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.10-02.04.35:899][738]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.10-02.04.35:899][738]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.10-02.04.35:900][738]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.10-02.04.35:900][738]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.10-02.04.35:905][738]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.10-02.04.35:905][738]LogAudioMixer: Display: 1: FrontRight
+[2022.06.10-02.04.35:911][738]LogAudioMixer: Display: Using Audio Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2022.06.10-02.04.35:912][738]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.10-02.04.35:912][738]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.10-02.04.35:912][738]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.10-02.04.35:913][738]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.10-02.04.35:913][738]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.10-02.04.35:913][738]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.10-02.04.35:915][738]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.10-02.04.35:915][738]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.10-02.04.35:915][738]LogInit: FAudioDevice initialized.
+[2022.06.10-02.04.35:915][738]LogAudio: Display: Audio Device (ID: 17) registered with world 'L_LevelOne'.
+[2022.06.10-02.04.35:927][738]LogLoad: Game class is 'TwinStickGameMode_C'
+[2022.06.10-02.04.35:930][738]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2022.06.09-23.04.35
+[2022.06.10-02.04.35:930][738]LogWorld: Bringing up level for play took: 0.003089
+[2022.06.10-02.04.35:931][738]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2022.06.10-02.04.35:935][738]PIE: Server logged in
+[2022.06.10-02.04.35:936][738]PIE: Play in editor total start time 0.114 seconds.
+[2022.06.10-02.04.36:463][761]LogBlueprintUserMessages: [BP_Projectile_C_0] bye
+[2022.06.10-02.04.38:125][838]LogBlueprintUserMessages: [BP_Projectile_C_1] bye
+[2022.06.10-02.04.38:227][843]LogBlueprintUserMessages: [BP_Projectile_C_1] bye
+[2022.06.10-02.04.38:713][866]LogBlueprintUserMessages: [BP_Projectile_C_2] bye
+[2022.06.10-02.04.38:817][871]LogBlueprintUserMessages: [BP_Projectile_C_2] bye
+[2022.06.10-02.04.39:117][885]LogBlueprintUserMessages: [BP_Projectile_C_3] bye
+[2022.06.10-02.04.39:203][889]LogBlueprintUserMessages: [BP_Projectile_C_3] bye
+[2022.06.10-02.04.39:335][895]LogBlueprintUserMessages: [BP_Projectile_C_4] bye
+[2022.06.10-02.04.39:396][898]LogBlueprintUserMessages: [BP_Projectile_C_4] bye
+[2022.06.10-02.04.39:929][923]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 80.0
+[2022.06.10-02.04.40:396][945]LogBlueprintUserMessages: [BP_Projectile_C_5] bye
+[2022.06.10-02.04.40:398][945]LogBlueprintUserMessages: [BP_Projectile_C_5] bye
+[2022.06.10-02.04.40:803][964]LogBlueprintUserMessages: [BP_Projectile_C_6] bye
+[2022.06.10-02.04.40:805][964]LogBlueprintUserMessages: [BP_Projectile_C_6] bye
+[2022.06.10-02.04.41:013][974]LogBlueprintUserMessages: [BP_Projectile_C_7] bye
+[2022.06.10-02.04.41:015][974]LogBlueprintUserMessages: [BP_Projectile_C_7] bye
+[2022.06.10-02.04.41:205][983]LogBlueprintUserMessages: [BP_Projectile_C_8] bye
+[2022.06.10-02.04.41:207][983]LogBlueprintUserMessages: [BP_Projectile_C_8] bye
+[2022.06.10-02.04.41:398][992]LogBlueprintUserMessages: [BP_Projectile_C_9] bye
+[2022.06.10-02.04.41:400][992]LogBlueprintUserMessages: [BP_Projectile_C_9] bye
+[2022.06.10-02.04.41:609][  2]LogBlueprintUserMessages: [BP_Projectile_C_10] bye
+[2022.06.10-02.04.41:611][  2]LogBlueprintUserMessages: [BP_Projectile_C_10] bye
+[2022.06.10-02.04.41:801][ 11]LogBlueprintUserMessages: [BP_Projectile_C_11] bye
+[2022.06.10-02.04.41:803][ 11]LogBlueprintUserMessages: [BP_Projectile_C_11] bye
+[2022.06.10-02.04.42:012][ 21]LogBlueprintUserMessages: [BP_Projectile_C_12] bye
+[2022.06.10-02.04.42:013][ 21]LogBlueprintUserMessages: [BP_Projectile_C_12] bye
+[2022.06.10-02.04.43:863][108]LogBlueprintUserMessages: [BP_Projectile_C_13] bye
+[2022.06.10-02.04.43:865][108]LogBlueprintUserMessages: [BP_Projectile_C_13] bye
+[2022.06.10-02.04.43:985][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.10-02.04.43:985][112]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2022.06.10-02.04.43:986][112]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.06.10-02.04.43:986][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.10-02.04.44:006][112]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.10-02.04.44:021][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.10-02.04.44:075][112]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.10-02.04.44:075][112]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.10-02.04.44:077][112]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.10-02.04.44:079][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.10-02.04.44:086][112]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2022.06.10-02.04.44:125][113]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2022.06.10-02.04.56:327][586]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.10-02.04.56:341][586]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.10-02.04.56:341][586]PIE: New page: PIE session: L_LevelOne (Jun 9, 2022, 8:04:56 PM)
+[2022.06.10-02.04.56:341][586]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2022.06.10-02.04.56:351][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009992s)
+[2022.06.10-02.04.56:353][586]LogAIModule: Creating AISystem for world L_LevelOne
+[2022.06.10-02.04.56:354][586]LogPlayLevel: PIE: World Init took: (0.002146s)
+[2022.06.10-02.04.56:354][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.012952s)
+[2022.06.10-02.04.56:422][586]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2022.06.10-02.04.56:424][586]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.06.10-02.04.56:424][586]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.10-02.04.56:424][586]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.10-02.04.56:424][586]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.10-02.04.56:424][586]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.10-02.04.56:424][586]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.10-02.04.56:424][586]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.10-02.04.56:424][586]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.10-02.04.56:424][586]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.10-02.04.56:424][586]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.10-02.04.56:425][586]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.10-02.04.56:425][586]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.10-02.04.56:425][586]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.10-02.04.56:429][586]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.10-02.04.56:429][586]LogAudioMixer: Display: 1: FrontRight
+[2022.06.10-02.04.56:436][586]LogAudioMixer: Display: Using Audio Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2022.06.10-02.04.56:437][586]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.10-02.04.56:437][586]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.10-02.04.56:437][586]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.10-02.04.56:438][586]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.10-02.04.56:438][586]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.10-02.04.56:438][586]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.10-02.04.56:440][586]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.10-02.04.56:440][586]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.10-02.04.56:440][586]LogInit: FAudioDevice initialized.
+[2022.06.10-02.04.56:440][586]LogAudio: Display: Audio Device (ID: 18) registered with world 'L_LevelOne'.
+[2022.06.10-02.04.56:453][586]LogLoad: Game class is 'TwinStickGameMode_C'
+[2022.06.10-02.04.56:456][586]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2022.06.09-23.04.56
+[2022.06.10-02.04.56:456][586]LogWorld: Bringing up level for play took: 0.002905
+[2022.06.10-02.04.56:457][586]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2022.06.10-02.04.56:463][586]PIE: Server logged in
+[2022.06.10-02.04.56:464][586]PIE: Play in editor total start time 0.127 seconds.
+[2022.06.10-02.04.56:915][605]LogBlueprintUserMessages: [BP_Projectile_C_0] bye
+[2022.06.10-02.04.56:915][605]LogBlueprintUserMessages: [BP_Projectile_C_0] bye
+[2022.06.10-02.04.58:022][656]LogBlueprintUserMessages: [BP_Projectile_C_1] bye
+[2022.06.10-02.04.58:022][656]LogBlueprintUserMessages: [BP_Projectile_C_1] bye
+[2022.06.10-02.04.58:532][680]LogBlueprintUserMessages: [BP_Projectile_C_2] bye
+[2022.06.10-02.04.58:532][680]LogBlueprintUserMessages: [BP_Projectile_C_2] bye
+[2022.06.10-02.04.58:723][689]LogBlueprintUserMessages: [BP_Projectile_C_3] bye
+[2022.06.10-02.04.58:723][689]LogBlueprintUserMessages: [BP_Projectile_C_3] bye
+[2022.06.10-02.04.58:956][700]LogBlueprintUserMessages: [BP_Projectile_C_4] bye
+[2022.06.10-02.04.58:956][700]LogBlueprintUserMessages: [BP_Projectile_C_4] bye
+[2022.06.10-02.04.59:168][710]LogBlueprintUserMessages: [BP_Projectile_C_5] bye
+[2022.06.10-02.04.59:168][710]LogBlueprintUserMessages: [BP_Projectile_C_5] bye
+[2022.06.10-02.04.59:381][720]LogBlueprintUserMessages: [BP_Projectile_C_6] bye
+[2022.06.10-02.04.59:382][720]LogBlueprintUserMessages: [BP_Projectile_C_6] bye
+[2022.06.10-02.04.59:571][729]LogBlueprintUserMessages: [BP_Projectile_C_7] bye
+[2022.06.10-02.04.59:572][729]LogBlueprintUserMessages: [BP_Projectile_C_7] bye
+[2022.06.10-02.04.59:926][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.10-02.04.59:926][744]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2022.06.10-02.04.59:927][744]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2022.06.10-02.04.59:928][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.10-02.04.59:945][744]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.10-02.04.59:960][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.10-02.05.00:014][744]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.10-02.05.00:015][744]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.10-02.05.00:016][744]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.10-02.05.00:020][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.10-02.05.00:027][744]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2022.06.10-02.05.00:069][745]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2022.06.10-02.05.03:874][ 58]Cmd: TRANSACTION UNDO
+[2022.06.10-02.05.03:875][ 58]LogEditorTransaction: Undo Scale Actors
+[2022.06.10-02.05.06:688][143]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2022.06.10-02.05.06:720][143]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/L_LevelOneB2320B0A4BAD6E0CD343B78940C562D8.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/Levels/L_LevelOne.umap'
+[2022.06.10-02.05.06:987][143]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/L_LevelOne_BuiltData218B946A4E6FED86DA13179930BA7FF0.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/Levels/L_LevelOne_BuiltData.uasset'
+[2022.06.10-02.05.07:281][143]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2022.06.10-02.05.07:281][143]SourceControl: Error: YourWorstNightmare/Content/Levels/L_LevelOne_BuiltData.uasset
+[2022.06.10-02.05.07:281][143]SourceControl: Error: hint: Use -f if you really want to add them.
+[2022.06.10-02.05.07:281][143]SourceControl: Error: hint: Turn this message off by running
+[2022.06.10-02.05.07:281][143]SourceControl: Error: hint: "git config advice.addIgnoredFile false"
+[2022.06.10-02.05.07:308][143]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.10-02.05.07:308][143]LogContentValidation: Display: Validating World /Game/Levels/L_LevelOne.L_LevelOne
+[2022.06.10-02.05.07:308][143]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/L_LevelOne_BuiltData.L_LevelOne_BuiltData
+[2022.06.10-02.05.18:432][356]LogUObjectHash: Compacting FUObjectHashTables data took   6.64ms
+[2022.06.10-02.05.20:955][356]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.10-02.05.21:140][356]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ThirdPersonBP/Blueprints/BP_ThirdPersonProjectile.BP_ThirdPersonProjectile
+[2022.06.10-02.05.22:838][356]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2022.06.10-02.05.23:022][356]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2022.06.10-02.05.29:716][684]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.06.10-02.05.29:716][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.10-02.05.30:516][766]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.06.10-02.05.30:516][766]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.06.10-02.05.30:516][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.10-02.05.31:957][926]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.06.10-02.05.31:957][926]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.06.10-02.05.31:957][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.10-02.05.33:274][ 60]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.06.10-02.05.33:275][ 60]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.06.10-02.05.33:275][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.10-02.05.35:017][102]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2022.06.10-02.05.35:050][102]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/L_LevelOneBE7301274A4C13E2C4CF6BABB42CCCBA.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/Levels/L_LevelOne.umap'
+[2022.06.10-02.05.35:270][102]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/L_LevelOne_BuiltDataFA924106426C916C7CD4CF9596BF5FF9.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/Levels/L_LevelOne_BuiltData.uasset'
+[2022.06.10-02.05.35:286][102]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.10-02.05.35:287][102]LogContentValidation: Display: Validating World /Game/Levels/L_LevelOne.L_LevelOne
+[2022.06.10-02.05.35:287][102]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/L_LevelOne_BuiltData.L_LevelOne_BuiltData
+[2022.06.10-02.05.38:649][234]LogUObjectHash: Compacting FUObjectHashTables data took   5.67ms
+[2022.06.10-02.05.40:446][234]LogSlate: Window 'Save Content' being destroyed
+[2022.06.10-02.05.40:755][234]LogSavePackage: Moving '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Saved/ThirdPersonCharacter69899DC841A1DC59694FDAA280A4CC76.tmp' to '../../../../../Users/USUARIO/Documents/Unreal Projects/TP_FINAL_DESAROLLO_AVANZADO/YourWorstNightmare/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.06.10-02.05.40:794][234]LogSlate: Window 'YourWorstNightmare - Unreal Editor' being destroyed
+[2022.06.10-02.05.41:135][234]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.06.10-02.05.41:135][234]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.06.10-02.05.41:167][235]Cmd: QUIT_EDITOR
+[2022.06.10-02.05.41:168][235]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.06.10-02.05.41:185][235]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.06.10-02.05.41:484][235]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.06.10-02.05.41:484][235]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.06.10-02.05.41:484][235]LogAudio: Display: Audio Device unregistered from world 'L_LevelOne'.
+[2022.06.10-02.05.41:484][235]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.10-02.05.41:488][235]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.10-02.05.41:538][235]LogAudio: Display: Audio Device Manager Shutdown
+[2022.06.10-02.05.41:539][235]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.10-02.05.41:555][235]LogExit: Preparing to exit.
+[2022.06.10-02.05.42:052][235]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2022.06.10-02.05.42:620][235]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.06.10-02.05.42:626][235]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.06.10-02.05.42:631][235]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.06.10-02.05.42:638][235]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.06.10-02.05.42:644][235]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.06.10-02.05.42:652][235]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.06.10-02.05.42:658][235]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.06.10-02.05.42:663][235]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.06.10-02.05.42:670][235]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.06.10-02.05.42:675][235]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.06.10-02.05.42:794][235]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.06.10-02.05.42:878][235]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.06.10-02.05.42:881][235]LogExit: Editor shut down
+[2022.06.10-02.05.42:893][235]LogExit: Transaction tracking system shut down
+[2022.06.10-02.05.43:825][235]LogExit: Object subsystem successfully closed.
+[2022.06.10-02.05.43:847][235]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.10-02.05.43:847][235]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2022.06.10-02.05.43:847][235]LogShaderCompilers: Display: Tracking 4 distinct input hashes that result in 4 distinct outputs (100.00%)
+[2022.06.10-02.05.43:847][235]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 307.20 MB (0.30 GB) budget. Usage: 0.00%
+[2022.06.10-02.05.43:847][235]LogShaderCompilers: Display: ================================================
+[2022.06.10-02.05.43:902][235]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.06.10-02.05.44:141][235]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (880)
+[2022.06.10-02.05.44:142][235]LogModuleManager: Shutting down and abandoning module NewLevelDialog (878)
+[2022.06.10-02.05.44:142][235]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (876)
+[2022.06.10-02.05.44:142][235]LogModuleManager: Shutting down and abandoning module Voice (874)
+[2022.06.10-02.05.44:142][235]LogModuleManager: Shutting down and abandoning module BlueprintGraph (872)
+[2022.06.10-02.05.44:142][235]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (870)
+[2022.06.10-02.05.44:142][235]LogModuleManager: Shutting down and abandoning module SceneOutliner (868)
+[2022.06.10-02.05.44:142][235]LogModuleManager: Shutting down and abandoning module AddContentDialog (866)
+[2022.06.10-02.05.44:172][235]LogModuleManager: Shutting down and abandoning module WidgetCarousel (865)
+[2022.06.10-02.05.44:172][235]LogModuleManager: Shutting down and abandoning module EditorWidgets (862)
+[2022.06.10-02.05.44:172][235]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2022.06.10-02.05.44:173][235]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2022.06.10-02.05.44:174][235]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2022.06.10-02.05.44:174][235]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2022.06.10-02.05.44:176][235]LogModuleManager: Shutting down and abandoning module SteamVREditor (852)
+[2022.06.10-02.05.44:176][235]LogModuleManager: Shutting down and abandoning module OculusMR (850)
+[2022.06.10-02.05.44:176][235]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (848)
+[2022.06.10-02.05.44:181][235]LogModuleManager: Shutting down and abandoning module TakeRecorder (847)
+[2022.06.10-02.05.44:184][235]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (844)
+[2022.06.10-02.05.44:184][235]LogModuleManager: Shutting down and abandoning module TakesCore (842)
+[2022.06.10-02.05.44:185][235]LogModuleManager: Shutting down and abandoning module OpenXRInput (840)
+[2022.06.10-02.05.44:186][235]LogModuleManager: Shutting down and abandoning module GooglePADEditor (838)
+[2022.06.10-02.05.44:186][235]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (836)
+[2022.06.10-02.05.44:186][235]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (834)
+[2022.06.10-02.05.44:190][235]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (832)
+[2022.06.10-02.05.44:191][235]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (830)
+[2022.06.10-02.05.44:194][235]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (828)
+[2022.06.10-02.05.44:195][235]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (826)
+[2022.06.10-02.05.44:195][235]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (824)
+[2022.06.10-02.05.44:195][235]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (822)
+[2022.06.10-02.05.44:197][235]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (820)
+[2022.06.10-02.05.44:197][235]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (818)
+[2022.06.10-02.05.44:197][235]LogModuleManager: Shutting down and abandoning module WebMMedia (816)
+[2022.06.10-02.05.44:198][235]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (814)
+[2022.06.10-02.05.44:199][235]LogModuleManager: Shutting down and abandoning module SequenceRecorder (813)
+[2022.06.10-02.05.44:200][235]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (810)
+[2022.06.10-02.05.44:200][235]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (808)
+[2022.06.10-02.05.44:200][235]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (806)
+[2022.06.10-02.05.44:200][235]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (804)
+[2022.06.10-02.05.44:200][235]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (802)
+[2022.06.10-02.05.44:200][235]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (800)
+[2022.06.10-02.05.44:200][235]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (798)
+[2022.06.10-02.05.44:200][235]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (796)
+[2022.06.10-02.05.44:200][235]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (794)
+[2022.06.10-02.05.44:200][235]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (792)
+[2022.06.10-02.05.44:200][235]LogModuleManager: Shutting down and abandoning module PlanarCut (790)
+[2022.06.10-02.05.44:201][235]LogModuleManager: Shutting down and abandoning module CharacterAI (788)
+[2022.06.10-02.05.44:201][235]LogModuleManager: Shutting down and abandoning module TextureAlignMode (786)
+[2022.06.10-02.05.44:201][235]LogModuleManager: Shutting down and abandoning module BspMode (784)
+[2022.06.10-02.05.44:202][235]LogModuleManager: Shutting down and abandoning module GeometryMode (782)
+[2022.06.10-02.05.44:202][235]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (780)
+[2022.06.10-02.05.44:203][235]LogModuleManager: Shutting down and abandoning module SmartSnapping (778)
+[2022.06.10-02.05.44:203][235]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2022.06.10-02.05.44:203][235]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2022.06.10-02.05.44:205][235]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2022.06.10-02.05.44:205][235]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2022.06.10-02.05.44:206][235]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2022.06.10-02.05.44:212][235]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2022.06.10-02.05.44:213][235]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2022.06.10-02.05.44:213][235]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2022.06.10-02.05.44:214][235]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2022.06.10-02.05.44:214][235]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2022.06.10-02.05.44:214][235]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2022.06.10-02.05.44:214][235]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2022.06.10-02.05.44:220][235]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2022.06.10-02.05.44:223][235]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2022.06.10-02.05.44:226][235]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2022.06.10-02.05.44:228][235]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2022.06.10-02.05.44:228][235]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2022.06.10-02.05.44:228][235]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2022.06.10-02.05.44:229][235]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2022.06.10-02.05.44:229][235]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
+[2022.06.10-02.05.45:032][235]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (736)
+[2022.06.10-02.05.45:032][235]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (734)
+[2022.06.10-02.05.45:033][235]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (732)
+[2022.06.10-02.05.45:033][235]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (730)
+[2022.06.10-02.05.45:033][235]LogModuleManager: Shutting down and abandoning module TraceInsights (728)
+[2022.06.10-02.05.45:181][235]MemoryProfiler: Shutdown
+[2022.06.10-02.05.45:190][235]NetworkingProfiler: Shutdown
+[2022.06.10-02.05.45:202][235]LoadingProfiler: Shutdown
+[2022.06.10-02.05.45:215][235]TimingProfiler: Shutdown
+[2022.06.10-02.05.45:223][235]LogModuleManager: Shutting down and abandoning module TraceServices (727)
+[2022.06.10-02.05.45:226][235]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (724)
+[2022.06.10-02.05.45:226][235]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (722)
+[2022.06.10-02.05.45:227][235]LogModuleManager: Shutting down and abandoning module InputBindingEditor (720)
+[2022.06.10-02.05.45:228][235]LogModuleManager: Shutting down and abandoning module MergeActors (718)
+[2022.06.10-02.05.45:231][235]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (716)
+[2022.06.10-02.05.45:232][235]LogModuleManager: Shutting down and abandoning module LocalizationService (715)
+[2022.06.10-02.05.45:233][235]LogModuleManager: Shutting down and abandoning module HardwareTargeting (712)
+[2022.06.10-02.05.45:234][235]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (710)
+[2022.06.10-02.05.45:234][235]LogModuleManager: Shutting down and abandoning module UndoHistory (708)
+[2022.06.10-02.05.45:235][235]LogModuleManager: Shutting down and abandoning module XmlParser (706)
+[2022.06.10-02.05.45:235][235]LogModuleManager: Shutting down and abandoning module Blutility (704)
+[2022.06.10-02.05.45:236][235]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (702)
+[2022.06.10-02.05.45:236][235]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (701)
+[2022.06.10-02.05.45:240][235]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (698)
+[2022.06.10-02.05.45:241][235]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (697)
+[2022.06.10-02.05.45:241][235]LogModuleManager: Shutting down and abandoning module SettingsEditor (694)
+[2022.06.10-02.05.45:242][235]LogModuleManager: Shutting down and abandoning module ProjectLauncher (692)
+[2022.06.10-02.05.45:244][235]LogModuleManager: Shutting down and abandoning module SessionFrontend (690)
+[2022.06.10-02.05.45:244][235]LogModuleManager: Shutting down and abandoning module ProfilerClient (688)
+[2022.06.10-02.05.45:245][235]LogModuleManager: Shutting down and abandoning module DeviceManager (686)
+[2022.06.10-02.05.45:245][235]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (685)
+[2022.06.10-02.05.45:284][235]LogModuleManager: Shutting down and abandoning module AutomationController (682)
+[2022.06.10-02.05.45:287][235]LogModuleManager: Shutting down and abandoning module AutomationWindow (680)
+[2022.06.10-02.05.45:289][235]LogModuleManager: Shutting down and abandoning module Layers (678)
+[2022.06.10-02.05.45:293][235]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (676)
+[2022.06.10-02.05.45:293][235]LogModuleManager: Shutting down and abandoning module DetailCustomizations (674)
+[2022.06.10-02.05.45:293][235]LogModuleManager: Shutting down and abandoning module PackagesDialog (672)
+[2022.06.10-02.05.45:293][235]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (670)
+[2022.06.10-02.05.45:295][235]LogModuleManager: Shutting down and abandoning module Persona (668)
+[2022.06.10-02.05.45:298][235]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (667)
+[2022.06.10-02.05.45:299][235]LogModuleManager: Shutting down and abandoning module AnimGraph (665)
+[2022.06.10-02.05.45:301][235]LogModuleManager: Shutting down and abandoning module Kismet (662)
+[2022.06.10-02.05.45:337][235]LogModuleManager: Shutting down and abandoning module KismetWidgets (661)
+[2022.06.10-02.05.45:338][235]LogModuleManager: Shutting down and abandoning module GraphEditor (658)
+[2022.06.10-02.05.45:338][235]LogModuleManager: Shutting down and abandoning module StructViewer (656)
+[2022.06.10-02.05.45:339][235]LogModuleManager: Shutting down and abandoning module ClassViewer (654)
+[2022.06.10-02.05.45:343][235]LogModuleManager: Shutting down and abandoning module Toolbox (652)
+[2022.06.10-02.05.45:345][235]LogModuleManager: Shutting down and abandoning module ModuleUI (650)
+[2022.06.10-02.05.45:346][235]LogModuleManager: Shutting down and abandoning module OutputLog (648)
+[2022.06.10-02.05.45:353][235]LogModuleManager: Shutting down and abandoning module GammaUI (646)
+[2022.06.10-02.05.45:354][235]LogModuleManager: Shutting down and abandoning module Documentation (644)
+[2022.06.10-02.05.45:355][235]LogModuleManager: Shutting down and abandoning module LiveCoding (642)
+[2022.06.10-02.05.45:359][235]LogModuleManager: Shutting down and abandoning module LevelSequence (640)
+[2022.06.10-02.05.45:359][235]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (638)
+[2022.06.10-02.05.45:360][235]LogModuleManager: Shutting down and abandoning module MovieScene (636)
+[2022.06.10-02.05.45:363][235]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (634)
+[2022.06.10-02.05.45:363][235]LogModuleManager: Shutting down and abandoning module LauncherPlatform (632)
+[2022.06.10-02.05.45:364][235]LogModuleManager: Shutting down and abandoning module AnalyticsET (630)
+[2022.06.10-02.05.45:364][235]LogModuleManager: Shutting down and abandoning module PortalServices (628)
+[2022.06.10-02.05.45:364][235]LogModuleManager: Shutting down and abandoning module PortalRpc (626)
+[2022.06.10-02.05.45:364][235]LogModuleManager: Shutting down and abandoning module MessagingRpc (624)
+[2022.06.10-02.05.45:364][235]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (622)
+[2022.06.10-02.05.45:364][235]LogModuleManager: Shutting down and abandoning module AudioMixerCore (621)
+[2022.06.10-02.05.45:364][235]LogModuleManager: Shutting down and abandoning module AIModule (618)
+[2022.06.10-02.05.45:365][235]LogModuleManager: Shutting down and abandoning module GameplayDebugger (617)
+[2022.06.10-02.05.45:365][235]LogModuleManager: Shutting down and abandoning module AITestSuite (615)
+[2022.06.10-02.05.45:365][235]LogModuleManager: Shutting down and abandoning module NavigationSystem (613)
+[2022.06.10-02.05.45:365][235]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (610)
+[2022.06.10-02.05.45:372][235]LogModuleManager: Shutting down and abandoning module ProfilerService (608)
+[2022.06.10-02.05.45:408][235]LogModuleManager: Shutting down and abandoning module TaskGraph (606)
+[2022.06.10-02.05.45:410][235]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (604)
+[2022.06.10-02.05.45:410][235]LogModuleManager: Shutting down and abandoning module OculusEditor (602)
+[2022.06.10-02.05.45:420][235]LogModuleManager: Shutting down and abandoning module OculusInput (600)
+[2022.06.10-02.05.45:420][235]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (598)
+[2022.06.10-02.05.45:420][235]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (596)
+[2022.06.10-02.05.45:420][235]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (594)
+[2022.06.10-02.05.45:420][235]LogModuleManager: Shutting down and abandoning module CollectionManager (593)
+[2022.06.10-02.05.45:422][235]LogModuleManager: Shutting down and abandoning module TakeSequencer (590)
+[2022.06.10-02.05.45:423][235]LogModuleManager: Shutting down and abandoning module TakeMovieScene (588)
+[2022.06.10-02.05.45:423][235]LogModuleManager: Shutting down and abandoning module ScreenshotTools (586)
+[2022.06.10-02.05.45:423][235]LogModuleManager: Shutting down and abandoning module SynthesisEditor (584)
+[2022.06.10-02.05.45:423][235]LogModuleManager: Shutting down and abandoning module Synthesis (582)
+[2022.06.10-02.05.45:425][235]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (580)
+[2022.06.10-02.05.45:426][235]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (578)
+[2022.06.10-02.05.45:426][235]LogModuleManager: Shutting down and abandoning module OpenXREditor (576)
+[2022.06.10-02.05.45:427][235]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (574)
+[2022.06.10-02.05.45:427][235]LogModuleManager: Shutting down and abandoning module GooglePAD (572)
+[2022.06.10-02.05.45:427][235]LogModuleManager: Shutting down and abandoning module EditableMesh (570)
+[2022.06.10-02.05.45:428][235]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (568)
+[2022.06.10-02.05.45:428][235]LogModuleManager: Shutting down and abandoning module AssetTags (566)
+[2022.06.10-02.05.45:428][235]LogModuleManager: Shutting down and abandoning module CableComponent (564)
+[2022.06.10-02.05.45:428][235]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (562)
+[2022.06.10-02.05.45:428][235]LogModuleManager: Shutting down and abandoning module AudioCapture (560)
+[2022.06.10-02.05.45:428][235]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (559)
+[2022.06.10-02.05.45:429][235]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (556)
+[2022.06.10-02.05.45:429][235]LogModuleManager: Shutting down and abandoning module AppleImageUtils (554)
+[2022.06.10-02.05.45:429][235]LogModuleManager: Shutting down and abandoning module AndroidPermission (552)
+[2022.06.10-02.05.45:429][235]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (550)
+[2022.06.10-02.05.45:429][235]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (548)
+[2022.06.10-02.05.45:429][235]LogModuleManager: Shutting down and abandoning module TemplateSequence (546)
+[2022.06.10-02.05.45:430][235]LogModuleManager: Shutting down and abandoning module MediaCompositing (544)
+[2022.06.10-02.05.45:430][235]LogModuleManager: Shutting down and abandoning module ImgMedia (542)
+[2022.06.10-02.05.45:430][235]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (540)
+[2022.06.10-02.05.45:430][235]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (538)
+[2022.06.10-02.05.45:430][235]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (536)
+[2022.06.10-02.05.45:430][235]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (534)
+[2022.06.10-02.05.45:430][235]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (532)
+[2022.06.10-02.05.45:431][235]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (530)
+[2022.06.10-02.05.45:431][235]LogModuleManager: Shutting down and abandoning module MotoSynth (528)
+[2022.06.10-02.05.45:431][235]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (526)
+[2022.06.10-02.05.45:432][235]LogOpenImageDenoise: OIDN shutting down
+[2022.06.10-02.05.45:432][235]LogModuleManager: Shutting down and abandoning module MeshConversion (524)
+[2022.06.10-02.05.45:433][235]LogModuleManager: Shutting down and abandoning module DynamicMesh (522)
+[2022.06.10-02.05.45:434][235]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (520)
+[2022.06.10-02.05.45:435][235]LogModuleManager: Shutting down and abandoning module GeometricObjects (518)
+[2022.06.10-02.05.45:436][235]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (516)
+[2022.06.10-02.05.45:436][235]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (515)
+[2022.06.10-02.05.45:436][235]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (512)
+[2022.06.10-02.05.45:437][235]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (510)
+[2022.06.10-02.05.45:437][235]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (508)
+[2022.06.10-02.05.45:437][235]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (506)
+[2022.06.10-02.05.45:438][235]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (504)
+[2022.06.10-02.05.45:439][235]LogModuleManager: Shutting down and abandoning module ChaosNiagara (502)
+[2022.06.10-02.05.45:439][235]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (500)
+[2022.06.10-02.05.45:439][235]LogModuleManager: Shutting down and abandoning module FractureEditor (498)
+[2022.06.10-02.05.45:440][235]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (497)
+[2022.06.10-02.05.45:441][235]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (494)
+[2022.06.10-02.05.45:441][235]LogModuleManager: Shutting down and abandoning module AutomationUtils (492)
+[2022.06.10-02.05.45:441][235]LogModuleManager: Shutting down and abandoning module BackChannel (490)
+[2022.06.10-02.05.45:442][235]LogModuleManager: Shutting down and abandoning module AlembicImporter (488)
+[2022.06.10-02.05.45:442][235]LogModuleManager: Shutting down and abandoning module AlembicLibrary (487)
+[2022.06.10-02.05.45:442][235]LogModuleManager: Shutting down and abandoning module GeometryCache (486)
+[2022.06.10-02.05.45:442][235]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (485)
+[2022.06.10-02.05.45:442][235]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (480)
+[2022.06.10-02.05.45:447][235]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (478)
+[2022.06.10-02.05.45:450][235]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (476)
+[2022.06.10-02.05.45:451][235]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (474)
+[2022.06.10-02.05.45:451][235]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (472)
+[2022.06.10-02.05.45:454][235]LogModuleManager: Shutting down and abandoning module PluginBrowser (470)
+[2022.06.10-02.05.45:458][235]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (468)
+[2022.06.10-02.05.45:460][235]LogModuleManager: Shutting down and abandoning module CurveEditorTools (466)
+[2022.06.10-02.05.45:463][235]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (464)
+[2022.06.10-02.05.45:463][235]LogModuleManager: Shutting down and abandoning module CryptoKeys (462)
+[2022.06.10-02.05.45:464][235]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (460)
+[2022.06.10-02.05.45:464][235]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (458)
+[2022.06.10-02.05.45:465][235]LogModuleManager: Shutting down and abandoning module UObjectPlugin (456)
+[2022.06.10-02.05.45:465][235]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (454)
+[2022.06.10-02.05.45:467][235]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (452)
+[2022.06.10-02.05.45:468][235]LogModuleManager: Shutting down and abandoning module PluginUtils (450)
+[2022.06.10-02.05.45:468][235]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (448)
+[2022.06.10-02.05.45:493][235]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (446)
+[2022.06.10-02.05.45:500][235]LogModuleManager: Shutting down and abandoning module GitSourceControl (444)
+[2022.06.10-02.05.45:501][235]LogModuleManager: Shutting down and abandoning module SourceControl (443)
+[2022.06.10-02.05.45:501][235]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (440)
+[2022.06.10-02.05.45:504][235]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (438)
+[2022.06.10-02.05.45:504][235]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (436)
+[2022.06.10-02.05.45:504][235]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (434)
+[2022.06.10-02.05.45:504][235]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (432)
+[2022.06.10-02.05.45:504][235]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (430)
+[2022.06.10-02.05.45:504][235]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (428)
+[2022.06.10-02.05.45:507][235]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (426)
+[2022.06.10-02.05.45:507][235]LogModuleManager: Shutting down and abandoning module LiveLink (424)
+[2022.06.10-02.05.47:525][235]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (422)
+[2022.06.10-02.05.48:142][235]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (420)
+[2022.06.10-02.05.48:143][235]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (418)
+[2022.06.10-02.05.48:347][235]LogModuleManager: Shutting down and abandoning module Paper2DEditor (416)
+[2022.06.10-02.05.49:418][235]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (414)
+[2022.06.10-02.05.49:436][235]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (412)
+[2022.06.10-02.05.49:475][235]LogModuleManager: Shutting down and abandoning module SoundFields (410)
+[2022.06.10-02.05.49:477][235]LogModuleManager: Shutting down and abandoning module SignificanceManager (408)
+[2022.06.10-02.05.49:477][235]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (406)
+[2022.06.10-02.05.49:477][235]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (404)
+[2022.06.10-02.05.49:522][235]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (402)
+[2022.06.10-02.05.49:524][235]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (398)
+[2022.06.10-02.05.49:524][235]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (396)
+[2022.06.10-02.05.49:524][235]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (394)
+[2022.06.10-02.05.49:524][235]LogModuleManager: Shutting down and abandoning module ActorSequence (392)
+[2022.06.10-02.05.49:524][235]LogModuleManager: Shutting down and abandoning module UdpMessaging (390)
+[2022.06.10-02.05.49:625][235]LogModuleManager: Shutting down and abandoning module TcpMessaging (388)
+[2022.06.10-02.05.49:751][235]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (386)
+[2022.06.10-02.05.49:751][235]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (384)
+[2022.06.10-02.05.49:751][235]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (382)
+[2022.06.10-02.05.49:751][235]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (380)
+[2022.06.10-02.05.49:751][235]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (378)
+[2022.06.10-02.05.49:979][235]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (376)
+[2022.06.10-02.05.49:983][235]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.06.10-02.05.49:983][235]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (374)
+[2022.06.10-02.05.49:984][235]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (372)
+[2022.06.10-02.05.49:984][235]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (370)
+[2022.06.10-02.05.49:988][235]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (368)
+[2022.06.10-02.05.49:989][235]LogModuleManager: Shutting down and abandoning module MagicLeapController (366)
+[2022.06.10-02.05.49:990][235]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (364)
+[2022.06.10-02.05.49:992][235]LogModuleManager: Shutting down and abandoning module MagicLeapAR (362)
+[2022.06.10-02.05.49:992][235]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (360)
+[2022.06.10-02.05.49:992][235]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (358)
+[2022.06.10-02.05.49:992][235]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2022.06.10-02.05.50:008][235]LogModuleManager: Shutting down and abandoning module SignalProcessing (355)
+[2022.06.10-02.05.50:015][235]LogModuleManager: Shutting down and abandoning module NiagaraEditor (353)
+[2022.06.10-02.05.50:056][235]LogModuleManager: Shutting down and abandoning module NiagaraCore (350)
+[2022.06.10-02.05.50:056][235]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (348)
+[2022.06.10-02.05.50:058][235]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (346)
+[2022.06.10-02.05.50:059][235]LogModuleManager: Shutting down and abandoning module FacialAnimation (344)
+[2022.06.10-02.05.50:059][235]LogModuleManager: Shutting down and abandoning module DataValidation (342)
+[2022.06.10-02.05.50:059][235]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (340)
+[2022.06.10-02.05.50:061][235]LogModuleManager: Shutting down and abandoning module LevelEditor (339)
+[2022.06.10-02.05.50:093][235]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (338)
+[2022.06.10-02.05.50:095][235]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (336)
+[2022.06.10-02.05.50:102][235]LogModuleManager: Shutting down and abandoning module MainFrame (334)
+[2022.06.10-02.05.50:103][235]LogModuleManager: Shutting down and abandoning module HotReload (333)
+[2022.06.10-02.05.50:107][235]LogModuleManager: Shutting down and abandoning module ToolMenus (329)
+[2022.06.10-02.05.50:108][235]LogModuleManager: Shutting down and abandoning module ContentBrowser (327)
+[2022.06.10-02.05.50:108][235]LogModuleManager: Shutting down and abandoning module ContentBrowserData (326)
+[2022.06.10-02.05.50:108][235]LogModuleManager: Shutting down and abandoning module TreeMap (323)
+[2022.06.10-02.05.50:109][235]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (320)
+[2022.06.10-02.05.50:109][235]LogModuleManager: Shutting down and abandoning module AnimationSharing (318)
+[2022.06.10-02.05.50:109][235]LogModuleManager: Shutting down and abandoning module GameplayCameras (316)
+[2022.06.10-02.05.50:109][235]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (314)
+[2022.06.10-02.05.50:112][235]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (312)
+[2022.06.10-02.05.50:112][235]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2022.06.10-02.05.50:112][235]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2022.06.10-02.05.50:236][235]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2022.06.10-02.05.50:237][235]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2022.06.10-02.05.50:237][235]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2022.06.10-02.05.50:237][235]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2022.06.10-02.05.50:239][235]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2022.06.10-02.05.50:242][235]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2022.06.10-02.05.50:242][235]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2022.06.10-02.05.50:242][235]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2022.06.10-02.05.50:242][235]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2022.06.10-02.05.50:243][235]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2022.06.10-02.05.50:245][235]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2022.06.10-02.05.50:245][235]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2022.06.10-02.05.50:247][235]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2022.06.10-02.05.50:248][235]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2022.06.10-02.05.50:250][235]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2022.06.10-02.05.50:253][235]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2022.06.10-02.05.50:255][235]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2022.06.10-02.05.50:257][235]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2022.06.10-02.05.50:257][235]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2022.06.10-02.05.50:263][235]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2022.06.10-02.05.50:263][235]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2022.06.10-02.05.50:265][235]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2022.06.10-02.05.50:265][235]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2022.06.10-02.05.50:265][235]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2022.06.10-02.05.50:265][235]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2022.06.10-02.05.50:266][235]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2022.06.10-02.05.50:266][235]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2022.06.10-02.05.50:267][235]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2022.06.10-02.05.50:267][235]LogModuleManager: Shutting down and abandoning module Core (248)
+[2022.06.10-02.05.50:267][235]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2022.06.10-02.05.50:270][235]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2022.06.10-02.05.50:274][235]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2022.06.10-02.05.50:276][235]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2022.06.10-02.05.50:280][235]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2022.06.10-02.05.50:289][235]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2022.06.10-02.05.50:289][235]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2022.06.10-02.05.50:290][235]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2022.06.10-02.05.50:291][235]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2022.06.10-02.05.50:292][235]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2022.06.10-02.05.50:293][235]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2022.06.10-02.05.50:293][235]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2022.06.10-02.05.50:294][235]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2022.06.10-02.05.50:300][235]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2022.06.10-02.05.50:301][235]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2022.06.10-02.05.50:303][235]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2022.06.10-02.05.50:303][235]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2022.06.10-02.05.50:304][235]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2022.06.10-02.05.50:306][235]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2022.06.10-02.05.50:308][235]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2022.06.10-02.05.50:309][235]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2022.06.10-02.05.50:309][235]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2022.06.10-02.05.50:310][235]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2022.06.10-02.05.50:312][235]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2022.06.10-02.05.50:312][235]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2022.06.10-02.05.50:312][235]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2022.06.10-02.05.50:313][235]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2022.06.10-02.05.50:313][235]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2022.06.10-02.05.50:314][235]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2022.06.10-02.05.50:317][235]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2022.06.10-02.05.50:318][235]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2022.06.10-02.05.50:318][235]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2022.06.10-02.05.50:319][235]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2022.06.10-02.05.50:321][235]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2022.06.10-02.05.50:323][235]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2022.06.10-02.05.50:324][235]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2022.06.10-02.05.50:324][235]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2022.06.10-02.05.50:325][235]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2022.06.10-02.05.50:325][235]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2022.06.10-02.05.50:384][235]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2022.06.10-02.05.50:384][235]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2022.06.10-02.05.50:384][235]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2022.06.10-02.05.50:384][235]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2022.06.10-02.05.50:384][235]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2022.06.10-02.05.50:483][235]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2022.06.10-02.05.50:484][235]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2022.06.10-02.05.50:484][235]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2022.06.10-02.05.50:485][235]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2022.06.10-02.05.50:485][235]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2022.06.10-02.05.50:486][235]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2022.06.10-02.05.50:486][235]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2022.06.10-02.05.50:488][235]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2022.06.10-02.05.50:488][235]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2022.06.10-02.05.51:016][235]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2022.06.10-02.05.51:848][235]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2022.06.10-02.05.51:848][235]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2022.06.10-02.05.51:848][235]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2022.06.10-02.05.51:848][235]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2022.06.10-02.05.51:906][235]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2022.06.10-02.05.53:213][235]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2022.06.10-02.05.53:213][235]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2022.06.10-02.05.53:214][235]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2022.06.10-02.05.53:215][235]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2022.06.10-02.05.53:218][235]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2022.06.10-02.05.53:220][235]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2022.06.10-02.05.53:221][235]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2022.06.10-02.05.53:221][235]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2022.06.10-02.05.53:224][235]LogHMD: Freeing OpenVRDLLHandle.
+[2022.06.10-02.05.53:225][235]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2022.06.10-02.05.53:229][235]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (108)
+[2022.06.10-02.05.53:246][235]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (106)
+[2022.06.10-02.05.53:265][235]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.06.10-02.05.53:270][235]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2022.06.10-02.05.53:270][235]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2022.06.10-02.05.53:270][235]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2022.06.10-02.05.53:287][235]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2022.06.10-02.05.53:287][235]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2022.06.10-02.05.53:288][235]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (94)
+[2022.06.10-02.05.53:288][235]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2022.06.10-02.05.53:288][235]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2022.06.10-02.05.53:292][235]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2022.06.10-02.05.53:295][235]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2022.06.10-02.05.53:340][235]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2022.06.10-02.05.53:340][235]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.06.10-02.05.53:342][235]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAF5D31B8-466B-1AF2-6BC5-A484ABEE704C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=f37af60a444338e8a7bafc82ca6f3da2%7Ca1752524b05145ca94744e340824d8e1%7C72b886c8-dde6-4af0-8c38-7efa86f0dd40&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.06.10-02.05.53:343][235]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.06.10-02.05.53:376][235]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2022.06.10-02.05.53:447][235]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2022.06.10-02.05.53:457][235]LogModuleManager: Shutting down and abandoning module Media (73)
+[2022.06.10-02.05.53:460][235]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2022.06.10-02.05.53:460][235]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2022.06.10-02.05.53:462][235]LogModuleManager: Shutting down and abandoning module MLSDK (66)
+[2022.06.10-02.05.53:463][235]LogModuleManager: Shutting down and abandoning module MagicLeap (64)
+[2022.06.10-02.05.53:464][235]LogModuleManager: Shutting down and abandoning module ChaosCloth (62)
+[2022.06.10-02.05.53:465][235]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (60)
+[2022.06.10-02.05.53:465][235]LogModuleManager: Shutting down and abandoning module NiagaraShader (58)
+[2022.06.10-02.05.53:466][235]LogModuleManager: Shutting down and abandoning module VariantManagerContent (56)
+[2022.06.10-02.05.53:466][235]LogModuleManager: Shutting down and abandoning module DatasmithContent (54)
+[2022.06.10-02.05.53:468][235]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2022.06.10-02.05.53:469][235]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.06.10-02.05.53:469][235]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.06.10-02.05.53:472][235]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2022.06.10-02.05.53:478][235]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2022.06.10-02.05.53:478][235]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2022.06.10-02.05.53:478][235]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2022.06.10-02.05.53:479][235]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2022.06.10-02.05.53:482][235]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2022.06.10-02.05.53:484][235]LogXGEController: Cleaning working directory: C:/Users/USUARIO/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.06.10-02.05.53:484][235]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2022.06.10-02.05.53:485][235]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.06.10-02.05.53:493][235]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2022.06.10-02.05.53:513][235]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.06.10-02.05.53:515][235]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.06.10-02.05.53:515][235]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.06.10-02.05.53:515][235]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.06.10-02.05.53:541][235]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.06.10-02.05.53:542][235]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.06.10-02.05.53:543][235]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.06.10-02.05.53:543][235]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.06.10-02.05.53:543][235]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.06.10-02.05.53:544][235]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.06.10-02.05.53:544][235]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.06.10-02.05.53:545][235]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.06.10-02.05.53:545][235]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.06.10-02.05.53:547][235]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.06.10-02.05.53:550][235]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.06.10-02.05.53:586][235]LogD3D11RHI: Shutdown
+[2022.06.10-02.05.53:587][235]LogD3D11RHI: CleanupD3DDevice
+[2022.06.10-02.05.53:665][235]LogExit: Exiting.
+[2022.06.10-02.05.53:718][235]Log file closed, 06/09/22 23:05:53
